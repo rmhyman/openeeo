@@ -1,0 +1,141 @@
+Year,Company,Category,Ethnicity,Gender,Count
+2014,Google,Executive/Sr. Officials/Mgrs,Hispanic,Male,0
+2014,Google,Executive/Sr. Officials/Mgrs,Hispanic,Female,0
+2014,Google,Executive/Sr. Officials/Mgrs,White,Male,15
+2014,Google,Executive/Sr. Officials/Mgrs,Black,Male,1
+2014,Google,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+2014,Google,Executive/Sr. Officials/Mgrs,Asian,Male,5
+2014,Google,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+2014,Google,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+2014,Google,Executive/Sr. Officials/Mgrs,White,Female,4
+2014,Google,Executive/Sr. Officials/Mgrs,Black,Female,0
+2014,Google,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+2014,Google,Executive/Sr. Officials/Mgrs,Asian,Female,0
+2014,Google,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+2014,Google,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+2014,Google,First/Mid Managers,Hispanic,Male,208
+2014,Google,First/Mid Managers,Hispanic,Female,107
+2014,Google,First/Mid Managers,White,Male,3150
+2014,Google,First/Mid Managers,Black,Male,70
+2014,Google,First/Mid Managers,Pacific Islander,Male,10
+2014,Google,First/Mid Managers,Asian,Male,1162
+2014,Google,First/Mid Managers,American Indian,Male,6
+2014,Google,First/Mid Managers,Two or More Races,Male,75
+2014,Google,First/Mid Managers,White,Female,1622
+2014,Google,First/Mid Managers,Black,Female,60
+2014,Google,First/Mid Managers,Pacific Islander,Female,10
+2014,Google,First/Mid Managers,Asian,Female,739
+2014,Google,First/Mid Managers,American Indian,Female,2
+2014,Google,First/Mid Managers,Two or More Races,Female,53
+2014,Google,Professionals,Hispanic,Male,681
+2014,Google,Professionals,Hispanic,Female,221
+2014,Google,Professionals,White,Male,10483
+2014,Google,Professionals,Black,Male,240
+2014,Google,Professionals,Pacific Islander,Male,16
+2014,Google,Professionals,Asian,Male,5536
+2014,Google,Professionals,American Indian,Male,15
+2014,Google,Professionals,Two or More Races,Male,288
+2014,Google,Professionals,White,Female,2296
+2014,Google,Professionals,Black,Female,129
+2014,Google,Professionals,Pacific Islander,Female,12
+2014,Google,Professionals,Asian,Female,2068
+2014,Google,Professionals,American Indian,Female,8
+2014,Google,Professionals,Two or More Races,Female,137
+2014,Google,Technicians,Hispanic,Male,9
+2014,Google,Technicians,Hispanic,Female,0
+2014,Google,Technicians,White,Male,252
+2014,Google,Technicians,Black,Male,15
+2014,Google,Technicians,Pacific Islander,Male,1
+2014,Google,Technicians,Asian,Male,8
+2014,Google,Technicians,American Indian,Male,5
+2014,Google,Technicians,Two or More Races,Male,6
+2014,Google,Technicians,White,Female,33
+2014,Google,Technicians,Black,Female,4
+2014,Google,Technicians,Pacific Islander,Female,0
+2014,Google,Technicians,Asian,Female,2
+2014,Google,Technicians,American Indian,Female,0
+2014,Google,Technicians,Two or More Races,Female,1
+2014,Google,Sales Workers,Hispanic,Male,61
+2014,Google,Sales Workers,Hispanic,Female,70
+2014,Google,Sales Workers,White,Male,781
+2014,Google,Sales Workers,Black,Male,48
+2014,Google,Sales Workers,Pacific Islander,Male,1
+2014,Google,Sales Workers,Asian,Male,138
+2014,Google,Sales Workers,American Indian,Male,2
+2014,Google,Sales Workers,Two or More Races,Male,20
+2014,Google,Sales Workers,White,Female,757
+2014,Google,Sales Workers,Black,Female,34
+2014,Google,Sales Workers,Pacific Islander,Female,5
+2014,Google,Sales Workers,Asian,Female,140
+2014,Google,Sales Workers,American Indian,Female,2
+2014,Google,Sales Workers,Two or More Races,Female,27
+2014,Google,Admin Support,Hispanic,Male,17
+2014,Google,Admin Support,Hispanic,Female,49
+2014,Google,Admin Support,White,Male,78
+2014,Google,Admin Support,Black,Male,2
+2014,Google,Admin Support,Pacific Islander,Male,1
+2014,Google,Admin Support,Asian,Male,27
+2014,Google,Admin Support,American Indian,Male,0
+2014,Google,Admin Support,Two or More Races,Male,3
+2014,Google,Admin Support,White,Female,293
+2014,Google,Admin Support,Black,Female,23
+2014,Google,Admin Support,Pacific Islander,Female,3
+2014,Google,Admin Support,Asian,Female,96
+2014,Google,Admin Support,American Indian,Female,1
+2014,Google,Admin Support,Two or More Races,Female,25
+2014,Google,Craft Workers,Hispanic,Male,0
+2014,Google,Craft Workers,Hispanic,Female,0
+2014,Google,Craft Workers,White,Male,0
+2014,Google,Craft Workers,Black,Male,0
+2014,Google,Craft Workers,Pacific Islander,Male,0
+2014,Google,Craft Workers,Asian,Male,0
+2014,Google,Craft Workers,American Indian,Male,0
+2014,Google,Craft Workers,Two or More Races,Male,0
+2014,Google,Craft Workers,White,Female,0
+2014,Google,Craft Workers,Black,Female,0
+2014,Google,Craft Workers,Pacific Islander,Female,0
+2014,Google,Craft Workers,Asian,Female,0
+2014,Google,Craft Workers,American Indian,Female,0
+2014,Google,Craft Workers,Two or More Races,Female,0
+2014,Google,Operatives,Hispanic,Male,0
+2014,Google,Operatives,Hispanic,Female,0
+2014,Google,Operatives,White,Male,0
+2014,Google,Operatives,Black,Male,0
+2014,Google,Operatives,Pacific Islander,Male,0
+2014,Google,Operatives,Asian,Male,0
+2014,Google,Operatives,American Indian,Male,0
+2014,Google,Operatives,Two or More Races,Male,0
+2014,Google,Operatives,White,Female,0
+2014,Google,Operatives,Black,Female,0
+2014,Google,Operatives,Pacific Islander,Female,0
+2014,Google,Operatives,Asian,Female,0
+2014,Google,Operatives,American Indian,Female,0
+2014,Google,Operatives,Two or More Races,Female,0
+2014,Google,Laborers & Helpers,Hispanic,Male,0
+2014,Google,Laborers & Helpers,Hispanic,Female,0
+2014,Google,Laborers & Helpers,White,Male,0
+2014,Google,Laborers & Helpers,Black,Male,0
+2014,Google,Laborers & Helpers,Pacific Islander,Male,0
+2014,Google,Laborers & Helpers,Asian,Male,0
+2014,Google,Laborers & Helpers,American Indian,Male,0
+2014,Google,Laborers & Helpers,Two or More Races,Male,0
+2014,Google,Laborers & Helpers,White,Female,0
+2014,Google,Laborers & Helpers,Black,Female,0
+2014,Google,Laborers & Helpers,Pacific Islander,Female,0
+2014,Google,Laborers & Helpers,Asian,Female,0
+2014,Google,Laborers & Helpers,American Indian,Female,0
+2014,Google,Laborers & Helpers,Two or More Races,Female,0
+2014,Google,Service Workers,Hispanic,Male,5
+2014,Google,Service Workers,Hispanic,Female,0
+2014,Google,Service Workers,White,Male,41
+2014,Google,Service Workers,Black,Male,2
+2014,Google,Service Workers,Pacific Islander,Male,2
+2014,Google,Service Workers,Asian,Male,2
+2014,Google,Service Workers,American Indian,Male,0
+2014,Google,Service Workers,Two or More Races,Male,1
+2014,Google,Service Workers,White,Female,4
+2014,Google,Service Workers,Black,Female,0
+2014,Google,Service Workers,Pacific Islander,Female,0
+2014,Google,Service Workers,Asian,Female,1
+2014,Google,Service Workers,American Indian,Female,0
+2014,Google,Service Workers,Two or More Races,Female,0

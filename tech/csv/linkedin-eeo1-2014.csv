@@ -1,0 +1,141 @@
+Year,Company,Category,Ethnicity,Gender,Count
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,Hispanic,Male,6
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,Hispanic,Female,2
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,White,Male,89
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,Black,Male,2
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,Asian,Male,44
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,Two or More Races,Male,4
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,White,Female,39
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,Black,Female,0
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,Asian,Female,13
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+2014,LinkedIn,Executive/Sr. Officials/Mgrs,Two or More Races,Female,1
+2014,LinkedIn,First/Mid Managers,Hispanic,Male,11
+2014,LinkedIn,First/Mid Managers,Hispanic,Female,14
+2014,LinkedIn,First/Mid Managers,White,Male,191
+2014,LinkedIn,First/Mid Managers,Black,Male,5
+2014,LinkedIn,First/Mid Managers,Pacific Islander,Male,0
+2014,LinkedIn,First/Mid Managers,Asian,Male,124
+2014,LinkedIn,First/Mid Managers,American Indian,Male,0
+2014,LinkedIn,First/Mid Managers,Two or More Races,Male,13
+2014,LinkedIn,First/Mid Managers,White,Female,113
+2014,LinkedIn,First/Mid Managers,Black,Female,4
+2014,LinkedIn,First/Mid Managers,Pacific Islander,Female,1
+2014,LinkedIn,First/Mid Managers,Asian,Female,65
+2014,LinkedIn,First/Mid Managers,American Indian,Female,0
+2014,LinkedIn,First/Mid Managers,Two or More Races,Female,4
+2014,LinkedIn,Professionals,Hispanic,Male,64
+2014,LinkedIn,Professionals,Hispanic,Female,41
+2014,LinkedIn,Professionals,White,Male,699
+2014,LinkedIn,Professionals,Black,Male,33
+2014,LinkedIn,Professionals,Pacific Islander,Male,7
+2014,LinkedIn,Professionals,Asian,Male,909
+2014,LinkedIn,Professionals,American Indian,Male,2
+2014,LinkedIn,Professionals,Two or More Races,Male,28
+2014,LinkedIn,Professionals,White,Female,388
+2014,LinkedIn,Professionals,Black,Female,14
+2014,LinkedIn,Professionals,Pacific Islander,Female,2
+2014,LinkedIn,Professionals,Asian,Female,471
+2014,LinkedIn,Professionals,American Indian,Female,3
+2014,LinkedIn,Professionals,Two or More Races,Female,14
+2014,LinkedIn,Technicians,Hispanic,Male,0
+2014,LinkedIn,Technicians,Hispanic,Female,0
+2014,LinkedIn,Technicians,White,Male,0
+2014,LinkedIn,Technicians,Black,Male,0
+2014,LinkedIn,Technicians,Pacific Islander,Male,0
+2014,LinkedIn,Technicians,Asian,Male,0
+2014,LinkedIn,Technicians,American Indian,Male,0
+2014,LinkedIn,Technicians,Two or More Races,Male,0
+2014,LinkedIn,Technicians,White,Female,0
+2014,LinkedIn,Technicians,Black,Female,0
+2014,LinkedIn,Technicians,Pacific Islander,Female,0
+2014,LinkedIn,Technicians,Asian,Female,0
+2014,LinkedIn,Technicians,American Indian,Female,0
+2014,LinkedIn,Technicians,Two or More Races,Female,0
+2014,LinkedIn,Sales Workers,Hispanic,Male,9
+2014,LinkedIn,Sales Workers,Hispanic,Female,16
+2014,LinkedIn,Sales Workers,White,Male,280
+2014,LinkedIn,Sales Workers,Black,Male,13
+2014,LinkedIn,Sales Workers,Pacific Islander,Male,0
+2014,LinkedIn,Sales Workers,Asian,Male,24
+2014,LinkedIn,Sales Workers,American Indian,Male,0
+2014,LinkedIn,Sales Workers,Two or More Races,Male,6
+2014,LinkedIn,Sales Workers,White,Female,243
+2014,LinkedIn,Sales Workers,Black,Female,6
+2014,LinkedIn,Sales Workers,Pacific Islander,Female,0
+2014,LinkedIn,Sales Workers,Asian,Female,34
+2014,LinkedIn,Sales Workers,American Indian,Female,0
+2014,LinkedIn,Sales Workers,Two or More Races,Female,8
+2014,LinkedIn,Admin Support,Hispanic,Male,6
+2014,LinkedIn,Admin Support,Hispanic,Female,13
+2014,LinkedIn,Admin Support,White,Male,41
+2014,LinkedIn,Admin Support,Black,Male,5
+2014,LinkedIn,Admin Support,Pacific Islander,Male,0
+2014,LinkedIn,Admin Support,Asian,Male,4
+2014,LinkedIn,Admin Support,American Indian,Male,0
+2014,LinkedIn,Admin Support,Two or More Races,Male,2
+2014,LinkedIn,Admin Support,White,Female,83
+2014,LinkedIn,Admin Support,Black,Female,9
+2014,LinkedIn,Admin Support,Pacific Islander,Female,0
+2014,LinkedIn,Admin Support,Asian,Female,11
+2014,LinkedIn,Admin Support,American Indian,Female,0
+2014,LinkedIn,Admin Support,Two or More Races,Female,2
+2014,LinkedIn,Craft Workers,Hispanic,Male,0
+2014,LinkedIn,Craft Workers,Hispanic,Female,0
+2014,LinkedIn,Craft Workers,White,Male,0
+2014,LinkedIn,Craft Workers,Black,Male,0
+2014,LinkedIn,Craft Workers,Pacific Islander,Male,0
+2014,LinkedIn,Craft Workers,Asian,Male,0
+2014,LinkedIn,Craft Workers,American Indian,Male,0
+2014,LinkedIn,Craft Workers,Two or More Races,Male,0
+2014,LinkedIn,Craft Workers,White,Female,0
+2014,LinkedIn,Craft Workers,Black,Female,0
+2014,LinkedIn,Craft Workers,Pacific Islander,Female,0
+2014,LinkedIn,Craft Workers,Asian,Female,0
+2014,LinkedIn,Craft Workers,American Indian,Female,0
+2014,LinkedIn,Craft Workers,Two or More Races,Female,0
+2014,LinkedIn,Operatives,Hispanic,Male,0
+2014,LinkedIn,Operatives,Hispanic,Female,0
+2014,LinkedIn,Operatives,White,Male,0
+2014,LinkedIn,Operatives,Black,Male,0
+2014,LinkedIn,Operatives,Pacific Islander,Male,0
+2014,LinkedIn,Operatives,Asian,Male,0
+2014,LinkedIn,Operatives,American Indian,Male,0
+2014,LinkedIn,Operatives,Two or More Races,Male,0
+2014,LinkedIn,Operatives,White,Female,0
+2014,LinkedIn,Operatives,Black,Female,0
+2014,LinkedIn,Operatives,Pacific Islander,Female,0
+2014,LinkedIn,Operatives,Asian,Female,0
+2014,LinkedIn,Operatives,American Indian,Female,0
+2014,LinkedIn,Operatives,Two or More Races,Female,0
+2014,LinkedIn,Laborers & Helpers,Hispanic,Male,0
+2014,LinkedIn,Laborers & Helpers,Hispanic,Female,0
+2014,LinkedIn,Laborers & Helpers,White,Male,0
+2014,LinkedIn,Laborers & Helpers,Black,Male,0
+2014,LinkedIn,Laborers & Helpers,Pacific Islander,Male,0
+2014,LinkedIn,Laborers & Helpers,Asian,Male,0
+2014,LinkedIn,Laborers & Helpers,American Indian,Male,0
+2014,LinkedIn,Laborers & Helpers,Two or More Races,Male,0
+2014,LinkedIn,Laborers & Helpers,White,Female,0
+2014,LinkedIn,Laborers & Helpers,Black,Female,0
+2014,LinkedIn,Laborers & Helpers,Pacific Islander,Female,0
+2014,LinkedIn,Laborers & Helpers,Asian,Female,0
+2014,LinkedIn,Laborers & Helpers,American Indian,Female,0
+2014,LinkedIn,Laborers & Helpers,Two or More Races,Female,0
+2014,LinkedIn,Service Workers,Hispanic,Male,0
+2014,LinkedIn,Service Workers,Hispanic,Female,0
+2014,LinkedIn,Service Workers,White,Male,0
+2014,LinkedIn,Service Workers,Black,Male,0
+2014,LinkedIn,Service Workers,Pacific Islander,Male,0
+2014,LinkedIn,Service Workers,Asian,Male,0
+2014,LinkedIn,Service Workers,American Indian,Male,0
+2014,LinkedIn,Service Workers,Two or More Races,Male,0
+2014,LinkedIn,Service Workers,White,Female,0
+2014,LinkedIn,Service Workers,Black,Female,0
+2014,LinkedIn,Service Workers,Pacific Islander,Female,0
+2014,LinkedIn,Service Workers,Asian,Female,0
+2014,LinkedIn,Service Workers,American Indian,Female,0
+2014,LinkedIn,Service Workers,Two or More Races,Female,0

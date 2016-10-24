@@ -1,0 +1,141 @@
+Year,Company,Category,Ethnicity,Gender,Count
+2015,Facebook,Executive/Sr. Officials/Mgrs,Hispanic,Male,9
+2015,Facebook,Executive/Sr. Officials/Mgrs,Hispanic,Female,3
+2015,Facebook,Executive/Sr. Officials/Mgrs,White,Male,192
+2015,Facebook,Executive/Sr. Officials/Mgrs,Black,Male,5
+2015,Facebook,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,1
+2015,Facebook,Executive/Sr. Officials/Mgrs,Asian,Male,59
+2015,Facebook,Executive/Sr. Officials/Mgrs,American Indian,Male,1
+2015,Facebook,Executive/Sr. Officials/Mgrs,Two or More Races,Male,3
+2015,Facebook,Executive/Sr. Officials/Mgrs,White,Female,57
+2015,Facebook,Executive/Sr. Officials/Mgrs,Black,Female,3
+2015,Facebook,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+2015,Facebook,Executive/Sr. Officials/Mgrs,Asian,Female,20
+2015,Facebook,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+2015,Facebook,Executive/Sr. Officials/Mgrs,Two or More Races,Female,1
+2015,Facebook,First/Mid Managers,Hispanic,Male,22
+2015,Facebook,First/Mid Managers,Hispanic,Female,17
+2015,Facebook,First/Mid Managers,White,Male,515
+2015,Facebook,First/Mid Managers,Black,Male,13
+2015,Facebook,First/Mid Managers,Pacific Islander,Male,1
+2015,Facebook,First/Mid Managers,Asian,Male,249
+2015,Facebook,First/Mid Managers,American Indian,Male,0
+2015,Facebook,First/Mid Managers,Two or More Races,Male,26
+2015,Facebook,First/Mid Managers,White,Female,197
+2015,Facebook,First/Mid Managers,Black,Female,3
+2015,Facebook,First/Mid Managers,Pacific Islander,Female,1
+2015,Facebook,First/Mid Managers,Asian,Female,98
+2015,Facebook,First/Mid Managers,American Indian,Female,1
+2015,Facebook,First/Mid Managers,Two or More Races,Female,14
+2015,Facebook,Professionals,Hispanic,Male,163
+2015,Facebook,Professionals,Hispanic,Female,78
+2015,Facebook,Professionals,White,Male,2299
+2015,Facebook,Professionals,Black,Male,57
+2015,Facebook,Professionals,Pacific Islander,Male,5
+2015,Facebook,Professionals,Asian,Male,1784
+2015,Facebook,Professionals,American Indian,Male,4
+2015,Facebook,Professionals,Two or More Races,Male,110
+2015,Facebook,Professionals,White,Female,746
+2015,Facebook,Professionals,Black,Female,33
+2015,Facebook,Professionals,Pacific Islander,Female,7
+2015,Facebook,Professionals,Asian,Female,754
+2015,Facebook,Professionals,American Indian,Female,6
+2015,Facebook,Professionals,Two or More Races,Female,47
+2015,Facebook,Technicians,Hispanic,Male,5
+2015,Facebook,Technicians,Hispanic,Female,0
+2015,Facebook,Technicians,White,Male,68
+2015,Facebook,Technicians,Black,Male,2
+2015,Facebook,Technicians,Pacific Islander,Male,1
+2015,Facebook,Technicians,Asian,Male,13
+2015,Facebook,Technicians,American Indian,Male,1
+2015,Facebook,Technicians,Two or More Races,Male,2
+2015,Facebook,Technicians,White,Female,5
+2015,Facebook,Technicians,Black,Female,0
+2015,Facebook,Technicians,Pacific Islander,Female,0
+2015,Facebook,Technicians,Asian,Female,1
+2015,Facebook,Technicians,American Indian,Female,0
+2015,Facebook,Technicians,Two or More Races,Female,0
+2015,Facebook,Sales Workers,Hispanic,Male,17
+2015,Facebook,Sales Workers,Hispanic,Female,19
+2015,Facebook,Sales Workers,White,Male,154
+2015,Facebook,Sales Workers,Black,Male,8
+2015,Facebook,Sales Workers,Pacific Islander,Male,0
+2015,Facebook,Sales Workers,Asian,Male,25
+2015,Facebook,Sales Workers,American Indian,Male,0
+2015,Facebook,Sales Workers,Two or More Races,Male,5
+2015,Facebook,Sales Workers,White,Female,149
+2015,Facebook,Sales Workers,Black,Female,4
+2015,Facebook,Sales Workers,Pacific Islander,Female,1
+2015,Facebook,Sales Workers,Asian,Female,31
+2015,Facebook,Sales Workers,American Indian,Female,1
+2015,Facebook,Sales Workers,Two or More Races,Female,6
+2015,Facebook,Admin Support,Hispanic,Male,1
+2015,Facebook,Admin Support,Hispanic,Female,27
+2015,Facebook,Admin Support,White,Male,8
+2015,Facebook,Admin Support,Black,Male,1
+2015,Facebook,Admin Support,Pacific Islander,Male,0
+2015,Facebook,Admin Support,Asian,Male,1
+2015,Facebook,Admin Support,American Indian,Male,0
+2015,Facebook,Admin Support,Two or More Races,Male,1
+2015,Facebook,Admin Support,White,Female,128
+2015,Facebook,Admin Support,Black,Female,8
+2015,Facebook,Admin Support,Pacific Islander,Female,3
+2015,Facebook,Admin Support,Asian,Female,36
+2015,Facebook,Admin Support,American Indian,Female,2
+2015,Facebook,Admin Support,Two or More Races,Female,12
+2015,Facebook,Craft Workers,Hispanic,Male,1
+2015,Facebook,Craft Workers,Hispanic,Female,0
+2015,Facebook,Craft Workers,White,Male,49
+2015,Facebook,Craft Workers,Black,Male,6
+2015,Facebook,Craft Workers,Pacific Islander,Male,0
+2015,Facebook,Craft Workers,Asian,Male,1
+2015,Facebook,Craft Workers,American Indian,Male,0
+2015,Facebook,Craft Workers,Two or More Races,Male,0
+2015,Facebook,Craft Workers,White,Female,4
+2015,Facebook,Craft Workers,Black,Female,0
+2015,Facebook,Craft Workers,Pacific Islander,Female,0
+2015,Facebook,Craft Workers,Asian,Female,0
+2015,Facebook,Craft Workers,American Indian,Female,0
+2015,Facebook,Craft Workers,Two or More Races,Female,0
+2015,Facebook,Operatives,Hispanic,Male,0
+2015,Facebook,Operatives,Hispanic,Female,0
+2015,Facebook,Operatives,White,Male,0
+2015,Facebook,Operatives,Black,Male,0
+2015,Facebook,Operatives,Pacific Islander,Male,0
+2015,Facebook,Operatives,Asian,Male,0
+2015,Facebook,Operatives,American Indian,Male,0
+2015,Facebook,Operatives,Two or More Races,Male,0
+2015,Facebook,Operatives,White,Female,0
+2015,Facebook,Operatives,Black,Female,0
+2015,Facebook,Operatives,Pacific Islander,Female,0
+2015,Facebook,Operatives,Asian,Female,0
+2015,Facebook,Operatives,American Indian,Female,0
+2015,Facebook,Operatives,Two or More Races,Female,0
+2015,Facebook,Laborers & Helpers,Hispanic,Male,0
+2015,Facebook,Laborers & Helpers,Hispanic,Female,0
+2015,Facebook,Laborers & Helpers,White,Male,0
+2015,Facebook,Laborers & Helpers,Black,Male,0
+2015,Facebook,Laborers & Helpers,Pacific Islander,Male,0
+2015,Facebook,Laborers & Helpers,Asian,Male,0
+2015,Facebook,Laborers & Helpers,American Indian,Male,0
+2015,Facebook,Laborers & Helpers,Two or More Races,Male,0
+2015,Facebook,Laborers & Helpers,White,Female,0
+2015,Facebook,Laborers & Helpers,Black,Female,0
+2015,Facebook,Laborers & Helpers,Pacific Islander,Female,0
+2015,Facebook,Laborers & Helpers,Asian,Female,0
+2015,Facebook,Laborers & Helpers,American Indian,Female,0
+2015,Facebook,Laborers & Helpers,Two or More Races,Female,0
+2015,Facebook,Service Workers,Hispanic,Male,1
+2015,Facebook,Service Workers,Hispanic,Female,0
+2015,Facebook,Service Workers,White,Male,17
+2015,Facebook,Service Workers,Black,Male,2
+2015,Facebook,Service Workers,Pacific Islander,Male,2
+2015,Facebook,Service Workers,Asian,Male,6
+2015,Facebook,Service Workers,American Indian,Male,0
+2015,Facebook,Service Workers,Two or More Races,Male,1
+2015,Facebook,Service Workers,White,Female,3
+2015,Facebook,Service Workers,Black,Female,0
+2015,Facebook,Service Workers,Pacific Islander,Female,1
+2015,Facebook,Service Workers,Asian,Female,2
+2015,Facebook,Service Workers,American Indian,Female,0
+2015,Facebook,Service Workers,Two or More Races,Female,0

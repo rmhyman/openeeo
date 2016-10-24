@@ -1,0 +1,141 @@
+Year,Company,Category,Ethnicity,Gender,Count
+2014,Amazon,Executive/Sr. Officials/Mgrs,Hispanic,Male,1
+2014,Amazon,Executive/Sr. Officials/Mgrs,Hispanic,Female,1
+2014,Amazon,Executive/Sr. Officials/Mgrs,White,Male,83
+2014,Amazon,Executive/Sr. Officials/Mgrs,Black,Male,0
+2014,Amazon,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+2014,Amazon,Executive/Sr. Officials/Mgrs,Asian,Male,6
+2014,Amazon,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+2014,Amazon,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+2014,Amazon,Executive/Sr. Officials/Mgrs,White,Female,16
+2014,Amazon,Executive/Sr. Officials/Mgrs,Black,Female,1
+2014,Amazon,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+2014,Amazon,Executive/Sr. Officials/Mgrs,Asian,Female,1
+2014,Amazon,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+2014,Amazon,Executive/Sr. Officials/Mgrs,Two or More Races,Female,1
+2014,Amazon,First/Mid Managers,Hispanic,Male,226
+2014,Amazon,First/Mid Managers,Hispanic,Female,59
+2014,Amazon,First/Mid Managers,White,Male,3832
+2014,Amazon,First/Mid Managers,Black,Male,220
+2014,Amazon,First/Mid Managers,Pacific Islander,Male,7
+2014,Amazon,First/Mid Managers,Asian,Male,1026
+2014,Amazon,First/Mid Managers,American Indian,Male,12
+2014,Amazon,First/Mid Managers,Two or More Races,Male,101
+2014,Amazon,First/Mid Managers,White,Female,1023
+2014,Amazon,First/Mid Managers,Black,Female,70
+2014,Amazon,First/Mid Managers,Pacific Islander,Female,2
+2014,Amazon,First/Mid Managers,Asian,Female,241
+2014,Amazon,First/Mid Managers,American Indian,Female,43
+2014,Amazon,First/Mid Managers,Two or More Races,Female,6863
+2014,Amazon,Professionals,Hispanic,Male,121
+2014,Amazon,Professionals,Hispanic,Female,7718
+2014,Amazon,Professionals,White,Male,228
+2014,Amazon,Professionals,Black,Male,22
+2014,Amazon,Professionals,Pacific Islander,Male,4968
+2014,Amazon,Professionals,Asian,Male,19
+2014,Amazon,Professionals,American Indian,Male,301
+2014,Amazon,Professionals,Two or More Races,Male,2465
+2014,Amazon,Professionals,White,Female,147
+2014,Amazon,Professionals,Black,Female,13
+2014,Amazon,Professionals,Pacific Islander,Female,1636
+2014,Amazon,Professionals,Asian,Female,13
+2014,Amazon,Professionals,American Indian,Female,133
+2014,Amazon,Professionals,Two or More Races,Female,18266
+2014,Amazon,Technicians,Hispanic,Male,6
+2014,Amazon,Technicians,Hispanic,Female,489
+2014,Amazon,Technicians,White,Male,62
+2014,Amazon,Technicians,Black,Male,1
+2014,Amazon,Technicians,Pacific Islander,Male,67
+2014,Amazon,Technicians,Asian,Male,4
+2014,Amazon,Technicians,American Indian,Male,22
+2014,Amazon,Technicians,Two or More Races,Male,74
+2014,Amazon,Technicians,White,Female,6
+2014,Amazon,Technicians,Black,Female,0
+2014,Amazon,Technicians,Pacific Islander,Female,11
+2014,Amazon,Technicians,Asian,Female,1
+2014,Amazon,Technicians,American Indian,Female,3
+2014,Amazon,Technicians,Two or More Races,Female,788
+2014,Amazon,Sales Workers,Hispanic,Male,8
+2014,Amazon,Sales Workers,Hispanic,Female,342
+2014,Amazon,Sales Workers,White,Male,18
+2014,Amazon,Sales Workers,Black,Male,0
+2014,Amazon,Sales Workers,Pacific Islander,Male,26
+2014,Amazon,Sales Workers,Asian,Male,0
+2014,Amazon,Sales Workers,American Indian,Male,15
+2014,Amazon,Sales Workers,Two or More Races,Male,183
+2014,Amazon,Sales Workers,White,Female,9
+2014,Amazon,Sales Workers,Black,Female,0
+2014,Amazon,Sales Workers,Pacific Islander,Female,22
+2014,Amazon,Sales Workers,Asian,Female,0
+2014,Amazon,Sales Workers,American Indian,Female,7
+2014,Amazon,Sales Workers,Two or More Races,Female,641
+2014,Amazon,Admin Support,Hispanic,Male,143
+2014,Amazon,Admin Support,Hispanic,Female,1384
+2014,Amazon,Admin Support,White,Male,111
+2014,Amazon,Admin Support,Black,Male,5
+2014,Amazon,Admin Support,Pacific Islander,Male,73
+2014,Amazon,Admin Support,Asian,Male,13
+2014,Amazon,Admin Support,American Indian,Male,52
+2014,Amazon,Admin Support,Two or More Races,Male,2134
+2014,Amazon,Admin Support,White,Female,176
+2014,Amazon,Admin Support,Black,Female,5
+2014,Amazon,Admin Support,Pacific Islander,Female,146
+2014,Amazon,Admin Support,Asian,Female,20
+2014,Amazon,Admin Support,American Indian,Female,102
+2014,Amazon,Admin Support,Two or More Races,Female,4445
+2014,Amazon,Craft Workers,Hispanic,Male,1
+2014,Amazon,Craft Workers,Hispanic,Female,465
+2014,Amazon,Craft Workers,White,Male,35
+2014,Amazon,Craft Workers,Black,Male,3
+2014,Amazon,Craft Workers,Pacific Islander,Male,17
+2014,Amazon,Craft Workers,Asian,Male,5
+2014,Amazon,Craft Workers,American Indian,Male,12
+2014,Amazon,Craft Workers,Two or More Races,Male,18
+2014,Amazon,Craft Workers,White,Female,2
+2014,Amazon,Craft Workers,Black,Female,0
+2014,Amazon,Craft Workers,Pacific Islander,Female,2
+2014,Amazon,Craft Workers,Asian,Female,0
+2014,Amazon,Craft Workers,American Indian,Female,1
+2014,Amazon,Craft Workers,Two or More Races,Female,599
+2014,Amazon,Operatives,Hispanic,Male,95
+2014,Amazon,Operatives,Hispanic,Female,1917
+2014,Amazon,Operatives,White,Male,345
+2014,Amazon,Operatives,Black,Male,15
+2014,Amazon,Operatives,Pacific Islander,Male,92
+2014,Amazon,Operatives,Asian,Male,15
+2014,Amazon,Operatives,American Indian,Male,99
+2014,Amazon,Operatives,Two or More Races,Male,812
+2014,Amazon,Operatives,White,Female,167
+2014,Amazon,Operatives,Black,Female,3
+2014,Amazon,Operatives,Pacific Islander,Female,16
+2014,Amazon,Operatives,Asian,Female,14
+2014,Amazon,Operatives,American Indian,Female,37
+2014,Amazon,Operatives,Two or More Races,Female,3930
+2014,Amazon,Laborers & Helpers,Hispanic,Male,2264
+2014,Amazon,Laborers & Helpers,Hispanic,Female,13087
+2014,Amazon,Laborers & Helpers,White,Male,5085
+2014,Amazon,Laborers & Helpers,Black,Male,93
+2014,Amazon,Laborers & Helpers,Pacific Islander,Male,1041
+2014,Amazon,Laborers & Helpers,Asian,Male,186
+2014,Amazon,Laborers & Helpers,American Indian,Male,660
+2014,Amazon,Laborers & Helpers,Two or More Races,Male,10105
+2014,Amazon,Laborers & Helpers,White,Female,4702
+2014,Amazon,Laborers & Helpers,Black,Female,74
+2014,Amazon,Laborers & Helpers,Pacific Islander,Female,669
+2014,Amazon,Laborers & Helpers,Asian,Female,169
+2014,Amazon,Laborers & Helpers,American Indian,Female,512
+2014,Amazon,Laborers & Helpers,Two or More Races,Female,41521
+2014,Amazon,Service Workers,Hispanic,Male,0
+2014,Amazon,Service Workers,Hispanic,Female,6
+2014,Amazon,Service Workers,White,Male,6
+2014,Amazon,Service Workers,Black,Male,0
+2014,Amazon,Service Workers,Pacific Islander,Male,1
+2014,Amazon,Service Workers,Asian,Male,0
+2014,Amazon,Service Workers,American Indian,Male,0
+2014,Amazon,Service Workers,Two or More Races,Male,0
+2014,Amazon,Service Workers,White,Female,2
+2014,Amazon,Service Workers,Black,Female,0
+2014,Amazon,Service Workers,Pacific Islander,Female,0
+2014,Amazon,Service Workers,Asian,Female,0
+2014,Amazon,Service Workers,American Indian,Female,0
+2014,Amazon,Service Workers,Two or More Races,Female,16

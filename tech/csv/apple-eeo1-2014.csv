@@ -1,0 +1,141 @@
+Year,Company,Category,Ethnicity,Gender,Count
+2014,Apple,Executive/Sr. Officials/Mgrs,Hispanic,Male,1
+2014,Apple,Executive/Sr. Officials/Mgrs,Hispanic,Female,0
+2014,Apple,Executive/Sr. Officials/Mgrs,White,Male,60
+2014,Apple,Executive/Sr. Officials/Mgrs,Black,Male,0
+2014,Apple,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+2014,Apple,Executive/Sr. Officials/Mgrs,Asian,Male,7
+2014,Apple,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+2014,Apple,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+2014,Apple,Executive/Sr. Officials/Mgrs,White,Female,12
+2014,Apple,Executive/Sr. Officials/Mgrs,Black,Female,2
+2014,Apple,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+2014,Apple,Executive/Sr. Officials/Mgrs,Asian,Female,1
+2014,Apple,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+2014,Apple,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+2014,Apple,First/Mid Managers,Hispanic,Male,305
+2014,Apple,First/Mid Managers,Hispanic,Female,107
+2014,Apple,First/Mid Managers,White,Male,2898
+2014,Apple,First/Mid Managers,Black,Male,120
+2014,Apple,First/Mid Managers,Pacific Islander,Male,6
+2014,Apple,First/Mid Managers,Asian,Male,911
+2014,Apple,First/Mid Managers,American Indian,Male,5
+2014,Apple,First/Mid Managers,Two or More Races,Male,42
+2014,Apple,First/Mid Managers,White,Female,1114
+2014,Apple,First/Mid Managers,Black,Female,81
+2014,Apple,First/Mid Managers,Pacific Islander,Female,4
+2014,Apple,First/Mid Managers,Asian,Female,320
+2014,Apple,First/Mid Managers,American Indian,Female,1
+2014,Apple,First/Mid Managers,Two or More Races,Female,28
+2014,Apple,Professionals,Hispanic,Male,518
+2014,Apple,Professionals,Hispanic,Female,280
+2014,Apple,Professionals,White,Male,6415
+2014,Apple,Professionals,Black,Male,176
+2014,Apple,Professionals,Pacific Islander,Male,15
+2014,Apple,Professionals,Asian,Male,4178
+2014,Apple,Professionals,American Indian,Male,24
+2014,Apple,Professionals,Two or More Races,Male,135
+2014,Apple,Professionals,White,Female,1855
+2014,Apple,Professionals,Black,Female,80
+2014,Apple,Professionals,Pacific Islander,Female,9
+2014,Apple,Professionals,Asian,Female,1737
+2014,Apple,Professionals,American Indian,Female,12
+2014,Apple,Professionals,Two or More Races,Female,60
+2014,Apple,Technicians,Hispanic,Male,1322
+2014,Apple,Technicians,Hispanic,Female,342
+2014,Apple,Technicians,White,Male,7022
+2014,Apple,Technicians,Black,Male,956
+2014,Apple,Technicians,Pacific Islander,Male,52
+2014,Apple,Technicians,Asian,Male,607
+2014,Apple,Technicians,American Indian,Male,59
+2014,Apple,Technicians,Two or More Races,Male,229
+2014,Apple,Technicians,White,Female,1844
+2014,Apple,Technicians,Black,Female,561
+2014,Apple,Technicians,Pacific Islander,Female,15
+2014,Apple,Technicians,Asian,Female,231
+2014,Apple,Technicians,American Indian,Female,18
+2014,Apple,Technicians,Two or More Races,Female,122
+2014,Apple,Sales Workers,Hispanic,Male,1954
+2014,Apple,Sales Workers,Hispanic,Female,852
+2014,Apple,Sales Workers,White,Male,8798
+2014,Apple,Sales Workers,Black,Male,1516
+2014,Apple,Sales Workers,Pacific Islander,Male,107
+2014,Apple,Sales Workers,Asian,Male,830
+2014,Apple,Sales Workers,American Indian,Male,52
+2014,Apple,Sales Workers,Two or More Races,Male,275
+2014,Apple,Sales Workers,White,Female,3443
+2014,Apple,Sales Workers,Black,Female,758
+2014,Apple,Sales Workers,Pacific Islander,Female,45
+2014,Apple,Sales Workers,Asian,Female,408
+2014,Apple,Sales Workers,American Indian,Female,36
+2014,Apple,Sales Workers,Two or More Races,Female,136
+2014,Apple,Admin Support,Hispanic,Male,583
+2014,Apple,Admin Support,Hispanic,Female,489
+2014,Apple,Admin Support,White,Male,1740
+2014,Apple,Admin Support,Black,Male,253
+2014,Apple,Admin Support,Pacific Islander,Male,16
+2014,Apple,Admin Support,Asian,Male,207
+2014,Apple,Admin Support,American Indian,Male,10
+2014,Apple,Admin Support,Two or More Races,Male,68
+2014,Apple,Admin Support,White,Female,1402
+2014,Apple,Admin Support,Black,Female,287
+2014,Apple,Admin Support,Pacific Islander,Female,18
+2014,Apple,Admin Support,Asian,Female,279
+2014,Apple,Admin Support,American Indian,Female,13
+2014,Apple,Admin Support,Two or More Races,Female,64
+2014,Apple,Craft Workers,Hispanic,Male,10
+2014,Apple,Craft Workers,Hispanic,Female,0
+2014,Apple,Craft Workers,White,Male,65
+2014,Apple,Craft Workers,Black,Male,2
+2014,Apple,Craft Workers,Pacific Islander,Male,1
+2014,Apple,Craft Workers,Asian,Male,15
+2014,Apple,Craft Workers,American Indian,Male,1
+2014,Apple,Craft Workers,Two or More Races,Male,0
+2014,Apple,Craft Workers,White,Female,0
+2014,Apple,Craft Workers,Black,Female,0
+2014,Apple,Craft Workers,Pacific Islander,Female,0
+2014,Apple,Craft Workers,Asian,Female,0
+2014,Apple,Craft Workers,American Indian,Female,0
+2014,Apple,Craft Workers,Two or More Races,Female,0
+2014,Apple,Operatives,Hispanic,Male,0
+2014,Apple,Operatives,Hispanic,Female,0
+2014,Apple,Operatives,White,Male,0
+2014,Apple,Operatives,Black,Male,0
+2014,Apple,Operatives,Pacific Islander,Male,0
+2014,Apple,Operatives,Asian,Male,0
+2014,Apple,Operatives,American Indian,Male,0
+2014,Apple,Operatives,Two or More Races,Male,0
+2014,Apple,Operatives,White,Female,0
+2014,Apple,Operatives,Black,Female,0
+2014,Apple,Operatives,Pacific Islander,Female,0
+2014,Apple,Operatives,Asian,Female,0
+2014,Apple,Operatives,American Indian,Female,0
+2014,Apple,Operatives,Two or More Races,Female,0
+2014,Apple,Laborers & Helpers,Hispanic,Male,0
+2014,Apple,Laborers & Helpers,Hispanic,Female,0
+2014,Apple,Laborers & Helpers,White,Male,0
+2014,Apple,Laborers & Helpers,Black,Male,0
+2014,Apple,Laborers & Helpers,Pacific Islander,Male,0
+2014,Apple,Laborers & Helpers,Asian,Male,0
+2014,Apple,Laborers & Helpers,American Indian,Male,0
+2014,Apple,Laborers & Helpers,Two or More Races,Male,0
+2014,Apple,Laborers & Helpers,White,Female,0
+2014,Apple,Laborers & Helpers,Black,Female,0
+2014,Apple,Laborers & Helpers,Pacific Islander,Female,0
+2014,Apple,Laborers & Helpers,Asian,Female,0
+2014,Apple,Laborers & Helpers,American Indian,Female,0
+2014,Apple,Laborers & Helpers,Two or More Races,Female,0
+2014,Apple,Service Workers,Hispanic,Male,59
+2014,Apple,Service Workers,Hispanic,Female,65
+2014,Apple,Service Workers,White,Male,41
+2014,Apple,Service Workers,Black,Male,13
+2014,Apple,Service Workers,Pacific Islander,Male,5
+2014,Apple,Service Workers,Asian,Male,18
+2014,Apple,Service Workers,American Indian,Male,1
+2014,Apple,Service Workers,Two or More Races,Male,1
+2014,Apple,Service Workers,White,Female,15
+2014,Apple,Service Workers,Black,Female,4
+2014,Apple,Service Workers,Pacific Islander,Female,1
+2014,Apple,Service Workers,Asian,Female,10
+2014,Apple,Service Workers,American Indian,Female,1
+2014,Apple,Service Workers,Two or More Races,Female,3

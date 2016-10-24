@@ -1,0 +1,141 @@
+Year,Company,Category,Ethnicity,Gender,Count
+2015,Intel,Executive/Sr. Officials/Mgrs,Hispanic,Male,1
+2015,Intel,Executive/Sr. Officials/Mgrs,Hispanic,Female,0
+2015,Intel,Executive/Sr. Officials/Mgrs,White,Male,65
+2015,Intel,Executive/Sr. Officials/Mgrs,Black,Male,2
+2015,Intel,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+2015,Intel,Executive/Sr. Officials/Mgrs,Asian,Male,8
+2015,Intel,Executive/Sr. Officials/Mgrs,American Indian,Male,1
+2015,Intel,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+2015,Intel,Executive/Sr. Officials/Mgrs,White,Female,9
+2015,Intel,Executive/Sr. Officials/Mgrs,Black,Female,1
+2015,Intel,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+2015,Intel,Executive/Sr. Officials/Mgrs,Asian,Female,1
+2015,Intel,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+2015,Intel,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+2015,Intel,First/Mid Managers,Hispanic,Male,347
+2015,Intel,First/Mid Managers,Hispanic,Female,99
+2015,Intel,First/Mid Managers,White,Male,357
+2015,Intel,First/Mid Managers,Black,Male,133
+2015,Intel,First/Mid Managers,Pacific Islander,Male,4
+2015,Intel,First/Mid Managers,Asian,Male,1332
+2015,Intel,First/Mid Managers,American Indian,Male,33
+2015,Intel,First/Mid Managers,Two or More Races,Male,26
+2015,Intel,First/Mid Managers,White,Female,1050
+2015,Intel,First/Mid Managers,Black,Female,49
+2015,Intel,First/Mid Managers,Pacific Islander,Female,5
+2015,Intel,First/Mid Managers,Asian,Female,391
+2015,Intel,First/Mid Managers,American Indian,Female,6
+2015,Intel,First/Mid Managers,Two or More Races,Female,13
+2015,Intel,Professionals,Hispanic,Male,1696
+2015,Intel,Professionals,Hispanic,Female,611
+2015,Intel,Professionals,White,Male,13415
+2015,Intel,Professionals,Black,Male,744
+2015,Intel,Professionals,Pacific Islander,Male,21
+2015,Intel,Professionals,Asian,Male,9913
+2015,Intel,Professionals,American Indian,Male,79
+2015,Intel,Professionals,Two or More Races,Male,248
+2015,Intel,Professionals,White,Female,3570
+2015,Intel,Professionals,Black,Female,316
+2015,Intel,Professionals,Pacific Islander,Female,8
+2015,Intel,Professionals,Asian,Female,4317
+2015,Intel,Professionals,American Indian,Female,40
+2015,Intel,Professionals,Two or More Races,Female,118
+2015,Intel,Technicians,Hispanic,Male,1149
+2015,Intel,Technicians,Hispanic,Female,236
+2015,Intel,Technicians,White,Male,4725
+2015,Intel,Technicians,Black,Male,505
+2015,Intel,Technicians,Pacific Islander,Male,24
+2015,Intel,Technicians,Asian,Male,839
+2015,Intel,Technicians,American Indian,Male,85
+2015,Intel,Technicians,Two or More Races,Male,127
+2015,Intel,Technicians,White,Female,613
+2015,Intel,Technicians,Black,Female,54
+2015,Intel,Technicians,Pacific Islander,Female,9
+2015,Intel,Technicians,Asian,Female,306
+2015,Intel,Technicians,American Indian,Female,26
+2015,Intel,Technicians,Two or More Races,Female,18
+2015,Intel,Sales Workers,Hispanic,Male,53
+2015,Intel,Sales Workers,Hispanic,Female,25
+2015,Intel,Sales Workers,White,Male,810
+2015,Intel,Sales Workers,Black,Male,39
+2015,Intel,Sales Workers,Pacific Islander,Male,1
+2015,Intel,Sales Workers,Asian,Male,109
+2015,Intel,Sales Workers,American Indian,Male,1
+2015,Intel,Sales Workers,Two or More Races,Male,5
+2015,Intel,Sales Workers,White,Female,233
+2015,Intel,Sales Workers,Black,Female,12
+2015,Intel,Sales Workers,Pacific Islander,Female,0
+2015,Intel,Sales Workers,Asian,Female,48
+2015,Intel,Sales Workers,American Indian,Female,2
+2015,Intel,Sales Workers,Two or More Races,Female,2
+2015,Intel,Admin Support,Hispanic,Male,13
+2015,Intel,Admin Support,Hispanic,Female,156
+2015,Intel,Admin Support,White,Male,46
+2015,Intel,Admin Support,Black,Male,10
+2015,Intel,Admin Support,Pacific Islander,Male,0
+2015,Intel,Admin Support,Asian,Male,8
+2015,Intel,Admin Support,American Indian,Male,0
+2015,Intel,Admin Support,Two or More Races,Male,1
+2015,Intel,Admin Support,White,Female,643
+2015,Intel,Admin Support,Black,Female,39
+2015,Intel,Admin Support,Pacific Islander,Female,2
+2015,Intel,Admin Support,Asian,Female,82
+2015,Intel,Admin Support,American Indian,Female,6
+2015,Intel,Admin Support,Two or More Races,Female,12
+2015,Intel,Craft Workers,Hispanic,Male,76
+2015,Intel,Craft Workers,Hispanic,Female,4
+2015,Intel,Craft Workers,White,Male,298
+2015,Intel,Craft Workers,Black,Male,19
+2015,Intel,Craft Workers,Pacific Islander,Male,0
+2015,Intel,Craft Workers,Asian,Male,21
+2015,Intel,Craft Workers,American Indian,Male,9
+2015,Intel,Craft Workers,Two or More Races,Male,7
+2015,Intel,Craft Workers,White,Female,19
+2015,Intel,Craft Workers,Black,Female,3
+2015,Intel,Craft Workers,Pacific Islander,Female,0
+2015,Intel,Craft Workers,Asian,Female,1
+2015,Intel,Craft Workers,American Indian,Female,2
+2015,Intel,Craft Workers,Two or More Races,Female,0
+2015,Intel,Operatives,Hispanic,Male,0
+2015,Intel,Operatives,Hispanic,Female,0
+2015,Intel,Operatives,White,Male,0
+2015,Intel,Operatives,Black,Male,0
+2015,Intel,Operatives,Pacific Islander,Male,0
+2015,Intel,Operatives,Asian,Male,0
+2015,Intel,Operatives,American Indian,Male,0
+2015,Intel,Operatives,Two or More Races,Male,0
+2015,Intel,Operatives,White,Female,0
+2015,Intel,Operatives,Black,Female,0
+2015,Intel,Operatives,Pacific Islander,Female,0
+2015,Intel,Operatives,Asian,Female,0
+2015,Intel,Operatives,American Indian,Female,0
+2015,Intel,Operatives,Two or More Races,Female,0
+2015,Intel,Laborers & Helpers,Hispanic,Male,0
+2015,Intel,Laborers & Helpers,Hispanic,Female,0
+2015,Intel,Laborers & Helpers,White,Male,0
+2015,Intel,Laborers & Helpers,Black,Male,1
+2015,Intel,Laborers & Helpers,Pacific Islander,Male,0
+2015,Intel,Laborers & Helpers,Asian,Male,0
+2015,Intel,Laborers & Helpers,American Indian,Male,0
+2015,Intel,Laborers & Helpers,Two or More Races,Male,0
+2015,Intel,Laborers & Helpers,White,Female,0
+2015,Intel,Laborers & Helpers,Black,Female,0
+2015,Intel,Laborers & Helpers,Pacific Islander,Female,0
+2015,Intel,Laborers & Helpers,Asian,Female,0
+2015,Intel,Laborers & Helpers,American Indian,Female,0
+2015,Intel,Laborers & Helpers,Two or More Races,Female,0
+2015,Intel,Service Workers,Hispanic,Male,0
+2015,Intel,Service Workers,Hispanic,Female,0
+2015,Intel,Service Workers,White,Male,0
+2015,Intel,Service Workers,Black,Male,0
+2015,Intel,Service Workers,Pacific Islander,Male,0
+2015,Intel,Service Workers,Asian,Male,0
+2015,Intel,Service Workers,American Indian,Male,0
+2015,Intel,Service Workers,Two or More Races,Male,0
+2015,Intel,Service Workers,White,Female,0
+2015,Intel,Service Workers,Black,Female,0
+2015,Intel,Service Workers,Pacific Islander,Female,0
+2015,Intel,Service Workers,Asian,Female,0
+2015,Intel,Service Workers,American Indian,Female,0
+2015,Intel,Service Workers,Two or More Races,Female,0
