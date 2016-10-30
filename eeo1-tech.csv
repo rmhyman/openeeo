@@ -1,0 +1,1961 @@
+,Year,Company,Category,Ethnicity,Gender,Count
+0,2014,Amazon,Executive/Sr. Officials/Mgrs,Hispanic,Male,1
+1,2014,Amazon,Executive/Sr. Officials/Mgrs,Hispanic,Female,1
+2,2014,Amazon,Executive/Sr. Officials/Mgrs,White,Male,83
+3,2014,Amazon,Executive/Sr. Officials/Mgrs,Black,Male,0
+4,2014,Amazon,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+5,2014,Amazon,Executive/Sr. Officials/Mgrs,Asian,Male,6
+6,2014,Amazon,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+7,2014,Amazon,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+8,2014,Amazon,Executive/Sr. Officials/Mgrs,White,Female,16
+9,2014,Amazon,Executive/Sr. Officials/Mgrs,Black,Female,1
+10,2014,Amazon,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2014,Amazon,Executive/Sr. Officials/Mgrs,Asian,Female,1
+12,2014,Amazon,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2014,Amazon,Executive/Sr. Officials/Mgrs,Two or More Races,Female,1
+14,2014,Amazon,First/Mid Managers,Hispanic,Male,226
+15,2014,Amazon,First/Mid Managers,Hispanic,Female,59
+16,2014,Amazon,First/Mid Managers,White,Male,3832
+17,2014,Amazon,First/Mid Managers,Black,Male,220
+18,2014,Amazon,First/Mid Managers,Pacific Islander,Male,7
+19,2014,Amazon,First/Mid Managers,Asian,Male,1026
+20,2014,Amazon,First/Mid Managers,American Indian,Male,12
+21,2014,Amazon,First/Mid Managers,Two or More Races,Male,101
+22,2014,Amazon,First/Mid Managers,White,Female,1023
+23,2014,Amazon,First/Mid Managers,Black,Female,70
+24,2014,Amazon,First/Mid Managers,Pacific Islander,Female,2
+25,2014,Amazon,First/Mid Managers,Asian,Female,241
+26,2014,Amazon,First/Mid Managers,American Indian,Female,1
+27,2014,Amazon,First/Mid Managers,Two or More Races,Female,43
+28,2014,Amazon,Professionals,Hispanic,Male,482
+29,2014,Amazon,Professionals,Hispanic,Female,121
+30,2014,Amazon,Professionals,White,Male,7718
+31,2014,Amazon,Professionals,Black,Male,228
+32,2014,Amazon,Professionals,Pacific Islander,Male,22
+33,2014,Amazon,Professionals,Asian,Male,4968
+34,2014,Amazon,Professionals,American Indian,Male,19
+35,2014,Amazon,Professionals,Two or More Races,Male,301
+36,2014,Amazon,Professionals,White,Female,2465
+37,2014,Amazon,Professionals,Black,Female,147
+38,2014,Amazon,Professionals,Pacific Islander,Female,13
+39,2014,Amazon,Professionals,Asian,Female,1636
+40,2014,Amazon,Professionals,American Indian,Female,13
+41,2014,Amazon,Professionals,Two or More Races,Female,133
+42,2014,Amazon,Technicians,Hispanic,Male,42
+43,2014,Amazon,Technicians,Hispanic,Female,6
+44,2014,Amazon,Technicians,White,Male,489
+45,2014,Amazon,Technicians,Black,Male,62
+46,2014,Amazon,Technicians,Pacific Islander,Male,1
+47,2014,Amazon,Technicians,Asian,Male,67
+48,2014,Amazon,Technicians,American Indian,Male,4
+49,2014,Amazon,Technicians,Two or More Races,Male,22
+50,2014,Amazon,Technicians,White,Female,74
+51,2014,Amazon,Technicians,Black,Female,6
+52,2014,Amazon,Technicians,Pacific Islander,Female,0
+53,2014,Amazon,Technicians,Asian,Female,11
+54,2014,Amazon,Technicians,American Indian,Female,1
+55,2014,Amazon,Technicians,Two or More Races,Female,3
+56,2014,Amazon,Sales Workers,Hispanic,Male,11
+57,2014,Amazon,Sales Workers,Hispanic,Female,8
+58,2014,Amazon,Sales Workers,White,Male,342
+59,2014,Amazon,Sales Workers,Black,Male,18
+60,2014,Amazon,Sales Workers,Pacific Islander,Male,0
+61,2014,Amazon,Sales Workers,Asian,Male,26
+62,2014,Amazon,Sales Workers,American Indian,Male,0
+63,2014,Amazon,Sales Workers,Two or More Races,Male,15
+64,2014,Amazon,Sales Workers,White,Female,183
+65,2014,Amazon,Sales Workers,Black,Female,9
+66,2014,Amazon,Sales Workers,Pacific Islander,Female,0
+67,2014,Amazon,Sales Workers,Asian,Female,22
+68,2014,Amazon,Sales Workers,American Indian,Female,0
+69,2014,Amazon,Sales Workers,Two or More Races,Female,7
+70,2014,Amazon,Admin Support,Hispanic,Male,81
+71,2014,Amazon,Admin Support,Hispanic,Female,143
+72,2014,Amazon,Admin Support,White,Male,1384
+73,2014,Amazon,Admin Support,Black,Male,111
+74,2014,Amazon,Admin Support,Pacific Islander,Male,5
+75,2014,Amazon,Admin Support,Asian,Male,73
+76,2014,Amazon,Admin Support,American Indian,Male,13
+77,2014,Amazon,Admin Support,Two or More Races,Male,52
+78,2014,Amazon,Admin Support,White,Female,2134
+79,2014,Amazon,Admin Support,Black,Female,176
+80,2014,Amazon,Admin Support,Pacific Islander,Female,5
+81,2014,Amazon,Admin Support,Asian,Female,146
+82,2014,Amazon,Admin Support,American Indian,Female,20
+83,2014,Amazon,Admin Support,Two or More Races,Female,102
+84,2014,Amazon,Craft Workers,Hispanic,Male,38
+85,2014,Amazon,Craft Workers,Hispanic,Female,1
+86,2014,Amazon,Craft Workers,White,Male,465
+87,2014,Amazon,Craft Workers,Black,Male,35
+88,2014,Amazon,Craft Workers,Pacific Islander,Male,3
+89,2014,Amazon,Craft Workers,Asian,Male,17
+90,2014,Amazon,Craft Workers,American Indian,Male,5
+91,2014,Amazon,Craft Workers,Two or More Races,Male,12
+92,2014,Amazon,Craft Workers,White,Female,18
+93,2014,Amazon,Craft Workers,Black,Female,2
+94,2014,Amazon,Craft Workers,Pacific Islander,Female,0
+95,2014,Amazon,Craft Workers,Asian,Female,2
+96,2014,Amazon,Craft Workers,American Indian,Female,0
+97,2014,Amazon,Craft Workers,Two or More Races,Female,1
+98,2014,Amazon,Operatives,Hispanic,Male,303
+99,2014,Amazon,Operatives,Hispanic,Female,95
+100,2014,Amazon,Operatives,White,Male,1917
+101,2014,Amazon,Operatives,Black,Male,345
+102,2014,Amazon,Operatives,Pacific Islander,Male,15
+103,2014,Amazon,Operatives,Asian,Male,92
+104,2014,Amazon,Operatives,American Indian,Male,15
+105,2014,Amazon,Operatives,Two or More Races,Male,99
+106,2014,Amazon,Operatives,White,Female,812
+107,2014,Amazon,Operatives,Black,Female,167
+108,2014,Amazon,Operatives,Pacific Islander,Female,3
+109,2014,Amazon,Operatives,Asian,Female,16
+110,2014,Amazon,Operatives,American Indian,Female,14
+111,2014,Amazon,Operatives,Two or More Races,Female,37
+112,2014,Amazon,Laborers & Helpers,Hispanic,Male,2874
+113,2014,Amazon,Laborers & Helpers,Hispanic,Female,2264
+114,2014,Amazon,Laborers & Helpers,White,Male,13087
+115,2014,Amazon,Laborers & Helpers,Black,Male,5085
+116,2014,Amazon,Laborers & Helpers,Pacific Islander,Male,93
+117,2014,Amazon,Laborers & Helpers,Asian,Male,1041
+118,2014,Amazon,Laborers & Helpers,American Indian,Male,186
+119,2014,Amazon,Laborers & Helpers,Two or More Races,Male,660
+120,2014,Amazon,Laborers & Helpers,White,Female,10105
+121,2014,Amazon,Laborers & Helpers,Black,Female,4702
+122,2014,Amazon,Laborers & Helpers,Pacific Islander,Female,74
+123,2014,Amazon,Laborers & Helpers,Asian,Female,669
+124,2014,Amazon,Laborers & Helpers,American Indian,Female,169
+125,2014,Amazon,Laborers & Helpers,Two or More Races,Female,512
+126,2014,Amazon,Service Workers,Hispanic,Male,1
+127,2014,Amazon,Service Workers,Hispanic,Female,0
+128,2014,Amazon,Service Workers,White,Male,6
+129,2014,Amazon,Service Workers,Black,Male,6
+130,2014,Amazon,Service Workers,Pacific Islander,Male,0
+131,2014,Amazon,Service Workers,Asian,Male,1
+132,2014,Amazon,Service Workers,American Indian,Male,0
+133,2014,Amazon,Service Workers,Two or More Races,Male,0
+134,2014,Amazon,Service Workers,White,Female,0
+135,2014,Amazon,Service Workers,Black,Female,2
+136,2014,Amazon,Service Workers,Pacific Islander,Female,0
+137,2014,Amazon,Service Workers,Asian,Female,0
+138,2014,Amazon,Service Workers,American Indian,Female,0
+139,2014,Amazon,Service Workers,Two or More Races,Female,0
+0,2015,Amazon,Executive/Sr. Officials/Mgrs,Hispanic,Male,1
+1,2015,Amazon,Executive/Sr. Officials/Mgrs,Hispanic,Female,0
+2,2015,Amazon,Executive/Sr. Officials/Mgrs,White,Male,82
+3,2015,Amazon,Executive/Sr. Officials/Mgrs,Black,Male,0
+4,2015,Amazon,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+5,2015,Amazon,Executive/Sr. Officials/Mgrs,Asian,Male,4
+6,2015,Amazon,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+7,2015,Amazon,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+8,2015,Amazon,Executive/Sr. Officials/Mgrs,White,Female,17
+9,2015,Amazon,Executive/Sr. Officials/Mgrs,Black,Female,0
+10,2015,Amazon,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2015,Amazon,Executive/Sr. Officials/Mgrs,Asian,Female,2
+12,2015,Amazon,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2015,Amazon,Executive/Sr. Officials/Mgrs,Two or More Races,Female,1
+14,2015,Amazon,First/Mid Managers,Hispanic,Male,328
+15,2015,Amazon,First/Mid Managers,Hispanic,Female,86
+16,2015,Amazon,First/Mid Managers,White,Male,5082
+17,2015,Amazon,First/Mid Managers,Black,Male,308
+18,2015,Amazon,First/Mid Managers,Pacific Islander,Male,6
+19,2015,Amazon,First/Mid Managers,Asian,Male,1522
+20,2015,Amazon,First/Mid Managers,American Indian,Male,22
+21,2015,Amazon,First/Mid Managers,Two or More Races,Male,168
+22,2015,Amazon,First/Mid Managers,White,Female,1410
+23,2015,Amazon,First/Mid Managers,Black,Female,125
+24,2015,Amazon,First/Mid Managers,Pacific Islander,Female,3
+25,2015,Amazon,First/Mid Managers,Asian,Female,328
+26,2015,Amazon,First/Mid Managers,American Indian,Female,1
+27,2015,Amazon,First/Mid Managers,Two or More Races,Female,85
+28,2015,Amazon,Professionals,Hispanic,Male,596
+29,2015,Amazon,Professionals,Hispanic,Female,170
+30,2015,Amazon,Professionals,White,Male,9579
+31,2015,Amazon,Professionals,Black,Male,342
+32,2015,Amazon,Professionals,Pacific Islander,Male,30
+33,2015,Amazon,Professionals,Asian,Male,6522
+34,2015,Amazon,Professionals,American Indian,Male,28
+35,2015,Amazon,Professionals,Two or More Races,Male,387
+36,2015,Amazon,Professionals,White,Female,3191
+37,2015,Amazon,Professionals,Black,Female,198
+38,2015,Amazon,Professionals,Pacific Islander,Female,13
+39,2015,Amazon,Professionals,Asian,Female,2217
+40,2015,Amazon,Professionals,American Indian,Female,18
+41,2015,Amazon,Professionals,Two or More Races,Female,189
+42,2015,Amazon,Technicians,Hispanic,Male,92
+43,2015,Amazon,Technicians,Hispanic,Female,9
+44,2015,Amazon,Technicians,White,Male,839
+45,2015,Amazon,Technicians,Black,Male,102
+46,2015,Amazon,Technicians,Pacific Islander,Male,8
+47,2015,Amazon,Technicians,Asian,Male,120
+48,2015,Amazon,Technicians,American Indian,Male,7
+49,2015,Amazon,Technicians,Two or More Races,Male,49
+50,2015,Amazon,Technicians,White,Female,108
+51,2015,Amazon,Technicians,Black,Female,10
+52,2015,Amazon,Technicians,Pacific Islander,Female,0
+53,2015,Amazon,Technicians,Asian,Female,18
+54,2015,Amazon,Technicians,American Indian,Female,2
+55,2015,Amazon,Technicians,Two or More Races,Female,7
+56,2015,Amazon,Sales Workers,Hispanic,Male,14
+57,2015,Amazon,Sales Workers,Hispanic,Female,10
+58,2015,Amazon,Sales Workers,White,Male,377
+59,2015,Amazon,Sales Workers,Black,Male,17
+60,2015,Amazon,Sales Workers,Pacific Islander,Male,0
+61,2015,Amazon,Sales Workers,Asian,Male,43
+62,2015,Amazon,Sales Workers,American Indian,Male,1
+63,2015,Amazon,Sales Workers,Two or More Races,Male,13
+64,2015,Amazon,Sales Workers,White,Female,192
+65,2015,Amazon,Sales Workers,Black,Female,10
+66,2015,Amazon,Sales Workers,Pacific Islander,Female,0
+67,2015,Amazon,Sales Workers,Asian,Female,26
+68,2015,Amazon,Sales Workers,American Indian,Female,0
+69,2015,Amazon,Sales Workers,Two or More Races,Female,12
+70,2015,Amazon,Admin Support,Hispanic,Male,121
+71,2015,Amazon,Admin Support,Hispanic,Female,189
+72,2015,Amazon,Admin Support,White,Male,1549
+73,2015,Amazon,Admin Support,Black,Male,172
+74,2015,Amazon,Admin Support,Pacific Islander,Male,3
+75,2015,Amazon,Admin Support,Asian,Male,103
+76,2015,Amazon,Admin Support,American Indian,Male,16
+77,2015,Amazon,Admin Support,Two or More Races,Male,69
+78,2015,Amazon,Admin Support,White,Female,2261
+79,2015,Amazon,Admin Support,Black,Female,275
+80,2015,Amazon,Admin Support,Pacific Islander,Female,12
+81,2015,Amazon,Admin Support,Asian,Female,220
+82,2015,Amazon,Admin Support,American Indian,Female,20
+83,2015,Amazon,Admin Support,Two or More Races,Female,126
+84,2015,Amazon,Craft Workers,Hispanic,Male,37
+85,2015,Amazon,Craft Workers,Hispanic,Female,1
+86,2015,Amazon,Craft Workers,White,Male,359
+87,2015,Amazon,Craft Workers,Black,Male,33
+88,2015,Amazon,Craft Workers,Pacific Islander,Male,5
+89,2015,Amazon,Craft Workers,Asian,Male,6
+90,2015,Amazon,Craft Workers,American Indian,Male,2
+91,2015,Amazon,Craft Workers,Two or More Races,Male,22
+92,2015,Amazon,Craft Workers,White,Female,4
+93,2015,Amazon,Craft Workers,Black,Female,0
+94,2015,Amazon,Craft Workers,Pacific Islander,Female,0
+95,2015,Amazon,Craft Workers,Asian,Female,0
+96,2015,Amazon,Craft Workers,American Indian,Female,0
+97,2015,Amazon,Craft Workers,Two or More Races,Female,0
+98,2015,Amazon,Operatives,Hispanic,Male,483
+99,2015,Amazon,Operatives,Hispanic,Female,190
+100,2015,Amazon,Operatives,White,Male,2371
+101,2015,Amazon,Operatives,Black,Male,498
+102,2015,Amazon,Operatives,Pacific Islander,Male,25
+103,2015,Amazon,Operatives,Asian,Male,128
+104,2015,Amazon,Operatives,American Indian,Male,29
+105,2015,Amazon,Operatives,Two or More Races,Male,179
+106,2015,Amazon,Operatives,White,Female,940
+107,2015,Amazon,Operatives,Black,Female,267
+108,2015,Amazon,Operatives,Pacific Islander,Female,9
+109,2015,Amazon,Operatives,Asian,Female,31
+110,2015,Amazon,Operatives,American Indian,Female,19
+111,2015,Amazon,Operatives,Two or More Races,Female,71
+112,2015,Amazon,Laborers & Helpers,Hispanic,Male,6505
+113,2015,Amazon,Laborers & Helpers,Hispanic,Female,5593
+114,2015,Amazon,Laborers & Helpers,White,Male,17323
+115,2015,Amazon,Laborers & Helpers,Black,Male,9429
+116,2015,Amazon,Laborers & Helpers,Pacific Islander,Male,224
+117,2015,Amazon,Laborers & Helpers,Asian,Male,1932
+118,2015,Amazon,Laborers & Helpers,American Indian,Male,355
+119,2015,Amazon,Laborers & Helpers,Two or More Races,Male,1423
+120,2015,Amazon,Laborers & Helpers,White,Female,13501
+121,2015,Amazon,Laborers & Helpers,Black,Female,8912
+122,2015,Amazon,Laborers & Helpers,Pacific Islander,Female,170
+123,2015,Amazon,Laborers & Helpers,Asian,Female,1224
+124,2015,Amazon,Laborers & Helpers,American Indian,Female,279
+125,2015,Amazon,Laborers & Helpers,Two or More Races,Female,1189
+126,2015,Amazon,Service Workers,Hispanic,Male,1
+127,2015,Amazon,Service Workers,Hispanic,Female,0
+128,2015,Amazon,Service Workers,White,Male,5
+129,2015,Amazon,Service Workers,Black,Male,6
+130,2015,Amazon,Service Workers,Pacific Islander,Male,0
+131,2015,Amazon,Service Workers,Asian,Male,0
+132,2015,Amazon,Service Workers,American Indian,Male,0
+133,2015,Amazon,Service Workers,Two or More Races,Male,0
+134,2015,Amazon,Service Workers,White,Female,1
+135,2015,Amazon,Service Workers,Black,Female,0
+136,2015,Amazon,Service Workers,Pacific Islander,Female,0
+137,2015,Amazon,Service Workers,Asian,Female,0
+138,2015,Amazon,Service Workers,American Indian,Female,0
+139,2015,Amazon,Service Workers,Two or More Races,Female,0
+0,2014,Apple,Executive/Sr. Officials/Mgrs,Hispanic,Male,1
+1,2014,Apple,Executive/Sr. Officials/Mgrs,Hispanic,Female,0
+2,2014,Apple,Executive/Sr. Officials/Mgrs,White,Male,60
+3,2014,Apple,Executive/Sr. Officials/Mgrs,Black,Male,0
+4,2014,Apple,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+5,2014,Apple,Executive/Sr. Officials/Mgrs,Asian,Male,7
+6,2014,Apple,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+7,2014,Apple,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+8,2014,Apple,Executive/Sr. Officials/Mgrs,White,Female,12
+9,2014,Apple,Executive/Sr. Officials/Mgrs,Black,Female,2
+10,2014,Apple,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2014,Apple,Executive/Sr. Officials/Mgrs,Asian,Female,1
+12,2014,Apple,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2014,Apple,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+14,2014,Apple,First/Mid Managers,Hispanic,Male,305
+15,2014,Apple,First/Mid Managers,Hispanic,Female,107
+16,2014,Apple,First/Mid Managers,White,Male,2898
+17,2014,Apple,First/Mid Managers,Black,Male,120
+18,2014,Apple,First/Mid Managers,Pacific Islander,Male,6
+19,2014,Apple,First/Mid Managers,Asian,Male,911
+20,2014,Apple,First/Mid Managers,American Indian,Male,5
+21,2014,Apple,First/Mid Managers,Two or More Races,Male,42
+22,2014,Apple,First/Mid Managers,White,Female,1114
+23,2014,Apple,First/Mid Managers,Black,Female,81
+24,2014,Apple,First/Mid Managers,Pacific Islander,Female,4
+25,2014,Apple,First/Mid Managers,Asian,Female,320
+26,2014,Apple,First/Mid Managers,American Indian,Female,1
+27,2014,Apple,First/Mid Managers,Two or More Races,Female,28
+28,2014,Apple,Professionals,Hispanic,Male,518
+29,2014,Apple,Professionals,Hispanic,Female,280
+30,2014,Apple,Professionals,White,Male,6415
+31,2014,Apple,Professionals,Black,Male,176
+32,2014,Apple,Professionals,Pacific Islander,Male,15
+33,2014,Apple,Professionals,Asian,Male,4178
+34,2014,Apple,Professionals,American Indian,Male,24
+35,2014,Apple,Professionals,Two or More Races,Male,135
+36,2014,Apple,Professionals,White,Female,1855
+37,2014,Apple,Professionals,Black,Female,80
+38,2014,Apple,Professionals,Pacific Islander,Female,9
+39,2014,Apple,Professionals,Asian,Female,1737
+40,2014,Apple,Professionals,American Indian,Female,12
+41,2014,Apple,Professionals,Two or More Races,Female,60
+42,2014,Apple,Technicians,Hispanic,Male,1322
+43,2014,Apple,Technicians,Hispanic,Female,342
+44,2014,Apple,Technicians,White,Male,7022
+45,2014,Apple,Technicians,Black,Male,956
+46,2014,Apple,Technicians,Pacific Islander,Male,52
+47,2014,Apple,Technicians,Asian,Male,607
+48,2014,Apple,Technicians,American Indian,Male,59
+49,2014,Apple,Technicians,Two or More Races,Male,229
+50,2014,Apple,Technicians,White,Female,1844
+51,2014,Apple,Technicians,Black,Female,561
+52,2014,Apple,Technicians,Pacific Islander,Female,15
+53,2014,Apple,Technicians,Asian,Female,231
+54,2014,Apple,Technicians,American Indian,Female,18
+55,2014,Apple,Technicians,Two or More Races,Female,122
+56,2014,Apple,Sales Workers,Hispanic,Male,1954
+57,2014,Apple,Sales Workers,Hispanic,Female,852
+58,2014,Apple,Sales Workers,White,Male,8798
+59,2014,Apple,Sales Workers,Black,Male,1516
+60,2014,Apple,Sales Workers,Pacific Islander,Male,107
+61,2014,Apple,Sales Workers,Asian,Male,830
+62,2014,Apple,Sales Workers,American Indian,Male,52
+63,2014,Apple,Sales Workers,Two or More Races,Male,275
+64,2014,Apple,Sales Workers,White,Female,3443
+65,2014,Apple,Sales Workers,Black,Female,758
+66,2014,Apple,Sales Workers,Pacific Islander,Female,45
+67,2014,Apple,Sales Workers,Asian,Female,408
+68,2014,Apple,Sales Workers,American Indian,Female,36
+69,2014,Apple,Sales Workers,Two or More Races,Female,136
+70,2014,Apple,Admin Support,Hispanic,Male,583
+71,2014,Apple,Admin Support,Hispanic,Female,489
+72,2014,Apple,Admin Support,White,Male,1740
+73,2014,Apple,Admin Support,Black,Male,253
+74,2014,Apple,Admin Support,Pacific Islander,Male,16
+75,2014,Apple,Admin Support,Asian,Male,207
+76,2014,Apple,Admin Support,American Indian,Male,10
+77,2014,Apple,Admin Support,Two or More Races,Male,68
+78,2014,Apple,Admin Support,White,Female,1402
+79,2014,Apple,Admin Support,Black,Female,287
+80,2014,Apple,Admin Support,Pacific Islander,Female,18
+81,2014,Apple,Admin Support,Asian,Female,279
+82,2014,Apple,Admin Support,American Indian,Female,13
+83,2014,Apple,Admin Support,Two or More Races,Female,64
+84,2014,Apple,Craft Workers,Hispanic,Male,10
+85,2014,Apple,Craft Workers,Hispanic,Female,0
+86,2014,Apple,Craft Workers,White,Male,65
+87,2014,Apple,Craft Workers,Black,Male,2
+88,2014,Apple,Craft Workers,Pacific Islander,Male,1
+89,2014,Apple,Craft Workers,Asian,Male,15
+90,2014,Apple,Craft Workers,American Indian,Male,1
+91,2014,Apple,Craft Workers,Two or More Races,Male,0
+92,2014,Apple,Craft Workers,White,Female,0
+93,2014,Apple,Craft Workers,Black,Female,0
+94,2014,Apple,Craft Workers,Pacific Islander,Female,0
+95,2014,Apple,Craft Workers,Asian,Female,0
+96,2014,Apple,Craft Workers,American Indian,Female,0
+97,2014,Apple,Craft Workers,Two or More Races,Female,0
+98,2014,Apple,Operatives,Hispanic,Male,0
+99,2014,Apple,Operatives,Hispanic,Female,0
+100,2014,Apple,Operatives,White,Male,0
+101,2014,Apple,Operatives,Black,Male,0
+102,2014,Apple,Operatives,Pacific Islander,Male,0
+103,2014,Apple,Operatives,Asian,Male,0
+104,2014,Apple,Operatives,American Indian,Male,0
+105,2014,Apple,Operatives,Two or More Races,Male,0
+106,2014,Apple,Operatives,White,Female,0
+107,2014,Apple,Operatives,Black,Female,0
+108,2014,Apple,Operatives,Pacific Islander,Female,0
+109,2014,Apple,Operatives,Asian,Female,0
+110,2014,Apple,Operatives,American Indian,Female,0
+111,2014,Apple,Operatives,Two or More Races,Female,0
+112,2014,Apple,Laborers & Helpers,Hispanic,Male,0
+113,2014,Apple,Laborers & Helpers,Hispanic,Female,0
+114,2014,Apple,Laborers & Helpers,White,Male,0
+115,2014,Apple,Laborers & Helpers,Black,Male,0
+116,2014,Apple,Laborers & Helpers,Pacific Islander,Male,0
+117,2014,Apple,Laborers & Helpers,Asian,Male,0
+118,2014,Apple,Laborers & Helpers,American Indian,Male,0
+119,2014,Apple,Laborers & Helpers,Two or More Races,Male,0
+120,2014,Apple,Laborers & Helpers,White,Female,0
+121,2014,Apple,Laborers & Helpers,Black,Female,0
+122,2014,Apple,Laborers & Helpers,Pacific Islander,Female,0
+123,2014,Apple,Laborers & Helpers,Asian,Female,0
+124,2014,Apple,Laborers & Helpers,American Indian,Female,0
+125,2014,Apple,Laborers & Helpers,Two or More Races,Female,0
+126,2014,Apple,Service Workers,Hispanic,Male,59
+127,2014,Apple,Service Workers,Hispanic,Female,65
+128,2014,Apple,Service Workers,White,Male,41
+129,2014,Apple,Service Workers,Black,Male,13
+130,2014,Apple,Service Workers,Pacific Islander,Male,5
+131,2014,Apple,Service Workers,Asian,Male,18
+132,2014,Apple,Service Workers,American Indian,Male,1
+133,2014,Apple,Service Workers,Two or More Races,Male,1
+134,2014,Apple,Service Workers,White,Female,15
+135,2014,Apple,Service Workers,Black,Female,4
+136,2014,Apple,Service Workers,Pacific Islander,Female,1
+137,2014,Apple,Service Workers,Asian,Female,10
+138,2014,Apple,Service Workers,American Indian,Female,1
+139,2014,Apple,Service Workers,Two or More Races,Female,3
+0,2015,Apple,Executive/Sr. Officials/Mgrs,Hispanic,Male,1
+1,2015,Apple,Executive/Sr. Officials/Mgrs,Hispanic,Female,0
+2,2015,Apple,Executive/Sr. Officials/Mgrs,White,Male,73
+3,2015,Apple,Executive/Sr. Officials/Mgrs,Black,Male,2
+4,2015,Apple,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+5,2015,Apple,Executive/Sr. Officials/Mgrs,Asian,Male,9
+6,2015,Apple,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+7,2015,Apple,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+8,2015,Apple,Executive/Sr. Officials/Mgrs,White,Female,13
+9,2015,Apple,Executive/Sr. Officials/Mgrs,Black,Female,2
+10,2015,Apple,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2015,Apple,Executive/Sr. Officials/Mgrs,Asian,Female,3
+12,2015,Apple,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2015,Apple,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+14,2015,Apple,First/Mid Managers,Hispanic,Male,350
+15,2015,Apple,First/Mid Managers,Hispanic,Female,126
+16,2015,Apple,First/Mid Managers,White,Male,3534
+17,2015,Apple,First/Mid Managers,Black,Male,139
+18,2015,Apple,First/Mid Managers,Pacific Islander,Male,10
+19,2015,Apple,First/Mid Managers,Asian,Male,1189
+20,2015,Apple,First/Mid Managers,American Indian,Male,7
+21,2015,Apple,First/Mid Managers,Two or More Races,Male,51
+22,2015,Apple,First/Mid Managers,White,Female,1296
+23,2015,Apple,First/Mid Managers,Black,Female,96
+24,2015,Apple,First/Mid Managers,Pacific Islander,Female,3
+25,2015,Apple,First/Mid Managers,Asian,Female,419
+26,2015,Apple,First/Mid Managers,American Indian,Female,3
+27,2015,Apple,First/Mid Managers,Two or More Races,Female,30
+28,2015,Apple,Professionals,Hispanic,Male,641
+29,2015,Apple,Professionals,Hispanic,Female,323
+30,2015,Apple,Professionals,White,Male,8041
+31,2015,Apple,Professionals,Black,Male,225
+32,2015,Apple,Professionals,Pacific Islander,Male,25
+33,2015,Apple,Professionals,Asian,Male,5537
+34,2015,Apple,Professionals,American Indian,Male,28
+35,2015,Apple,Professionals,Two or More Races,Male,165
+36,2015,Apple,Professionals,White,Female,2423
+37,2015,Apple,Professionals,Black,Female,112
+38,2015,Apple,Professionals,Pacific Islander,Female,11
+39,2015,Apple,Professionals,Asian,Female,2203
+40,2015,Apple,Professionals,American Indian,Female,13
+41,2015,Apple,Professionals,Two or More Races,Female,80
+42,2015,Apple,Technicians,Hispanic,Male,1545
+43,2015,Apple,Technicians,Hispanic,Female,526
+44,2015,Apple,Technicians,White,Male,7887
+45,2015,Apple,Technicians,Black,Male,1223
+46,2015,Apple,Technicians,Pacific Islander,Male,63
+47,2015,Apple,Technicians,Asian,Male,660
+48,2015,Apple,Technicians,American Indian,Male,68
+49,2015,Apple,Technicians,Two or More Races,Male,268
+50,2015,Apple,Technicians,White,Female,2468
+51,2015,Apple,Technicians,Black,Female,874
+52,2015,Apple,Technicians,Pacific Islander,Female,21
+53,2015,Apple,Technicians,Asian,Female,234
+54,2015,Apple,Technicians,American Indian,Female,27
+55,2015,Apple,Technicians,Two or More Races,Female,167
+56,2015,Apple,Sales Workers,Hispanic,Male,2515
+57,2015,Apple,Sales Workers,Hispanic,Female,1147
+58,2015,Apple,Sales Workers,White,Male,9536
+59,2015,Apple,Sales Workers,Black,Male,1914
+60,2015,Apple,Sales Workers,Pacific Islander,Male,118
+61,2015,Apple,Sales Workers,Asian,Male,1046
+62,2015,Apple,Sales Workers,American Indian,Male,57
+63,2015,Apple,Sales Workers,Two or More Races,Male,296
+64,2015,Apple,Sales Workers,White,Female,4029
+65,2015,Apple,Sales Workers,Black,Female,1030
+66,2015,Apple,Sales Workers,Pacific Islander,Female,62
+67,2015,Apple,Sales Workers,Asian,Female,561
+68,2015,Apple,Sales Workers,American Indian,Female,41
+69,2015,Apple,Sales Workers,Two or More Races,Female,176
+70,2015,Apple,Admin Support,Hispanic,Male,615
+71,2015,Apple,Admin Support,Hispanic,Female,537
+72,2015,Apple,Admin Support,White,Male,1916
+73,2015,Apple,Admin Support,Black,Male,301
+74,2015,Apple,Admin Support,Pacific Islander,Male,23
+75,2015,Apple,Admin Support,Asian,Male,265
+76,2015,Apple,Admin Support,American Indian,Male,12
+77,2015,Apple,Admin Support,Two or More Races,Male,64
+78,2015,Apple,Admin Support,White,Female,1718
+79,2015,Apple,Admin Support,Black,Female,339
+80,2015,Apple,Admin Support,Pacific Islander,Female,17
+81,2015,Apple,Admin Support,Asian,Female,398
+82,2015,Apple,Admin Support,American Indian,Female,14
+83,2015,Apple,Admin Support,Two or More Races,Female,74
+84,2015,Apple,Craft Workers,Hispanic,Male,13
+85,2015,Apple,Craft Workers,Hispanic,Female,0
+86,2015,Apple,Craft Workers,White,Male,87
+87,2015,Apple,Craft Workers,Black,Male,2
+88,2015,Apple,Craft Workers,Pacific Islander,Male,1
+89,2015,Apple,Craft Workers,Asian,Male,14
+90,2015,Apple,Craft Workers,American Indian,Male,0
+91,2015,Apple,Craft Workers,Two or More Races,Male,0
+92,2015,Apple,Craft Workers,White,Female,0
+93,2015,Apple,Craft Workers,Black,Female,0
+94,2015,Apple,Craft Workers,Pacific Islander,Female,0
+95,2015,Apple,Craft Workers,Asian,Female,1
+96,2015,Apple,Craft Workers,American Indian,Female,0
+97,2015,Apple,Craft Workers,Two or More Races,Female,0
+98,2015,Apple,Operatives,Hispanic,Male,0
+99,2015,Apple,Operatives,Hispanic,Female,0
+100,2015,Apple,Operatives,White,Male,0
+101,2015,Apple,Operatives,Black,Male,0
+102,2015,Apple,Operatives,Pacific Islander,Male,0
+103,2015,Apple,Operatives,Asian,Male,0
+104,2015,Apple,Operatives,American Indian,Male,0
+105,2015,Apple,Operatives,Two or More Races,Male,0
+106,2015,Apple,Operatives,White,Female,0
+107,2015,Apple,Operatives,Black,Female,0
+108,2015,Apple,Operatives,Pacific Islander,Female,0
+109,2015,Apple,Operatives,Asian,Female,0
+110,2015,Apple,Operatives,American Indian,Female,0
+111,2015,Apple,Operatives,Two or More Races,Female,0
+112,2015,Apple,Laborers & Helpers,Hispanic,Male,0
+113,2015,Apple,Laborers & Helpers,Hispanic,Female,0
+114,2015,Apple,Laborers & Helpers,White,Male,0
+115,2015,Apple,Laborers & Helpers,Black,Male,0
+116,2015,Apple,Laborers & Helpers,Pacific Islander,Male,0
+117,2015,Apple,Laborers & Helpers,Asian,Male,0
+118,2015,Apple,Laborers & Helpers,American Indian,Male,0
+119,2015,Apple,Laborers & Helpers,Two or More Races,Male,0
+120,2015,Apple,Laborers & Helpers,White,Female,0
+121,2015,Apple,Laborers & Helpers,Black,Female,0
+122,2015,Apple,Laborers & Helpers,Pacific Islander,Female,0
+123,2015,Apple,Laborers & Helpers,Asian,Female,0
+124,2015,Apple,Laborers & Helpers,American Indian,Female,0
+125,2015,Apple,Laborers & Helpers,Two or More Races,Female,0
+126,2015,Apple,Service Workers,Hispanic,Male,94
+127,2015,Apple,Service Workers,Hispanic,Female,87
+128,2015,Apple,Service Workers,White,Male,61
+129,2015,Apple,Service Workers,Black,Male,15
+130,2015,Apple,Service Workers,Pacific Islander,Male,3
+131,2015,Apple,Service Workers,Asian,Male,31
+132,2015,Apple,Service Workers,American Indian,Male,1
+133,2015,Apple,Service Workers,Two or More Races,Male,2
+134,2015,Apple,Service Workers,White,Female,20
+135,2015,Apple,Service Workers,Black,Female,10
+136,2015,Apple,Service Workers,Pacific Islander,Female,2
+137,2015,Apple,Service Workers,Asian,Female,13
+138,2015,Apple,Service Workers,American Indian,Female,0
+139,2015,Apple,Service Workers,Two or More Races,Female,2
+0,2013,Facebook,Executive/Sr. Officials/Mgrs,Hispanic,Male,5
+1,2013,Facebook,Executive/Sr. Officials/Mgrs,Hispanic,Female,2
+2,2013,Facebook,Executive/Sr. Officials/Mgrs,White,Male,94
+3,2013,Facebook,Executive/Sr. Officials/Mgrs,Black,Male,0
+4,2013,Facebook,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+5,2013,Facebook,Executive/Sr. Officials/Mgrs,Asian,Male,18
+6,2013,Facebook,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+7,2013,Facebook,Executive/Sr. Officials/Mgrs,Two or More Races,Male,2
+8,2013,Facebook,Executive/Sr. Officials/Mgrs,White,Female,31
+9,2013,Facebook,Executive/Sr. Officials/Mgrs,Black,Female,0
+10,2013,Facebook,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2013,Facebook,Executive/Sr. Officials/Mgrs,Asian,Female,6
+12,2013,Facebook,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2013,Facebook,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+14,2013,Facebook,First/Mid Managers,Hispanic,Male,7
+15,2013,Facebook,First/Mid Managers,Hispanic,Female,8
+16,2013,Facebook,First/Mid Managers,White,Male,267
+17,2013,Facebook,First/Mid Managers,Black,Male,7
+18,2013,Facebook,First/Mid Managers,Pacific Islander,Male,0
+19,2013,Facebook,First/Mid Managers,Asian,Male,131
+20,2013,Facebook,First/Mid Managers,American Indian,Male,0
+21,2013,Facebook,First/Mid Managers,Two or More Races,Male,15
+22,2013,Facebook,First/Mid Managers,White,Female,103
+23,2013,Facebook,First/Mid Managers,Black,Female,1
+24,2013,Facebook,First/Mid Managers,Pacific Islander,Female,0
+25,2013,Facebook,First/Mid Managers,Asian,Female,55
+26,2013,Facebook,First/Mid Managers,American Indian,Female,0
+27,2013,Facebook,First/Mid Managers,Two or More Races,Female,6
+28,2013,Facebook,Professionals,Hispanic,Male,60
+29,2013,Facebook,Professionals,Hispanic,Female,23
+30,2013,Facebook,Professionals,White,Male,1255
+31,2013,Facebook,Professionals,Black,Male,19
+32,2013,Facebook,Professionals,Pacific Islander,Male,6
+33,2013,Facebook,Professionals,Asian,Male,849
+34,2013,Facebook,Professionals,American Indian,Male,2
+35,2013,Facebook,Professionals,Two or More Races,Male,57
+36,2013,Facebook,Professionals,White,Female,381
+37,2013,Facebook,Professionals,Black,Female,8
+38,2013,Facebook,Professionals,Pacific Islander,Female,4
+39,2013,Facebook,Professionals,Asian,Female,278
+40,2013,Facebook,Professionals,American Indian,Female,1
+41,2013,Facebook,Professionals,Two or More Races,Female,24
+42,2013,Facebook,Technicians,Hispanic,Male,1
+43,2013,Facebook,Technicians,Hispanic,Female,0
+44,2013,Facebook,Technicians,White,Male,29
+45,2013,Facebook,Technicians,Black,Male,3
+46,2013,Facebook,Technicians,Pacific Islander,Male,0
+47,2013,Facebook,Technicians,Asian,Male,6
+48,2013,Facebook,Technicians,American Indian,Male,1
+49,2013,Facebook,Technicians,Two or More Races,Male,1
+50,2013,Facebook,Technicians,White,Female,3
+51,2013,Facebook,Technicians,Black,Female,0
+52,2013,Facebook,Technicians,Pacific Islander,Female,0
+53,2013,Facebook,Technicians,Asian,Female,0
+54,2013,Facebook,Technicians,American Indian,Female,0
+55,2013,Facebook,Technicians,Two or More Races,Female,0
+56,2013,Facebook,Sales Workers,Hispanic,Male,4
+57,2013,Facebook,Sales Workers,Hispanic,Female,13
+58,2013,Facebook,Sales Workers,White,Male,103
+59,2013,Facebook,Sales Workers,Black,Male,3
+60,2013,Facebook,Sales Workers,Pacific Islander,Male,0
+61,2013,Facebook,Sales Workers,Asian,Male,14
+62,2013,Facebook,Sales Workers,American Indian,Male,0
+63,2013,Facebook,Sales Workers,Two or More Races,Male,2
+64,2013,Facebook,Sales Workers,White,Female,119
+65,2013,Facebook,Sales Workers,Black,Female,0
+66,2013,Facebook,Sales Workers,Pacific Islander,Female,0
+67,2013,Facebook,Sales Workers,Asian,Female,20
+68,2013,Facebook,Sales Workers,American Indian,Female,0
+69,2013,Facebook,Sales Workers,Two or More Races,Female,6
+70,2013,Facebook,Admin Support,Hispanic,Male,1
+71,2013,Facebook,Admin Support,Hispanic,Female,13
+72,2013,Facebook,Admin Support,White,Male,5
+73,2013,Facebook,Admin Support,Black,Male,0
+74,2013,Facebook,Admin Support,Pacific Islander,Male,0
+75,2013,Facebook,Admin Support,Asian,Male,0
+76,2013,Facebook,Admin Support,American Indian,Male,0
+77,2013,Facebook,Admin Support,Two or More Races,Male,2
+78,2013,Facebook,Admin Support,White,Female,74
+79,2013,Facebook,Admin Support,Black,Female,2
+80,2013,Facebook,Admin Support,Pacific Islander,Female,0
+81,2013,Facebook,Admin Support,Asian,Female,18
+82,2013,Facebook,Admin Support,American Indian,Female,1
+83,2013,Facebook,Admin Support,Two or More Races,Female,5
+84,2013,Facebook,Craft Workers,Hispanic,Male,1
+85,2013,Facebook,Craft Workers,Hispanic,Female,0
+86,2013,Facebook,Craft Workers,White,Male,50
+87,2013,Facebook,Craft Workers,Black,Male,2
+88,2013,Facebook,Craft Workers,Pacific Islander,Male,1
+89,2013,Facebook,Craft Workers,Asian,Male,15
+90,2013,Facebook,Craft Workers,American Indian,Male,0
+91,2013,Facebook,Craft Workers,Two or More Races,Male,0
+92,2013,Facebook,Craft Workers,White,Female,5
+93,2013,Facebook,Craft Workers,Black,Female,0
+94,2013,Facebook,Craft Workers,Pacific Islander,Female,0
+95,2013,Facebook,Craft Workers,Asian,Female,1
+96,2013,Facebook,Craft Workers,American Indian,Female,0
+97,2013,Facebook,Craft Workers,Two or More Races,Female,0
+98,2013,Facebook,Operatives,Hispanic,Male,0
+99,2013,Facebook,Operatives,Hispanic,Female,0
+100,2013,Facebook,Operatives,White,Male,0
+101,2013,Facebook,Operatives,Black,Male,0
+102,2013,Facebook,Operatives,Pacific Islander,Male,0
+103,2013,Facebook,Operatives,Asian,Male,0
+104,2013,Facebook,Operatives,American Indian,Male,0
+105,2013,Facebook,Operatives,Two or More Races,Male,0
+106,2013,Facebook,Operatives,White,Female,0
+107,2013,Facebook,Operatives,Black,Female,0
+108,2013,Facebook,Operatives,Pacific Islander,Female,0
+109,2013,Facebook,Operatives,Asian,Female,0
+110,2013,Facebook,Operatives,American Indian,Female,0
+111,2013,Facebook,Operatives,Two or More Races,Female,0
+112,2013,Facebook,Laborers & Helpers,Hispanic,Male,0
+113,2013,Facebook,Laborers & Helpers,Hispanic,Female,0
+114,2013,Facebook,Laborers & Helpers,White,Male,0
+115,2013,Facebook,Laborers & Helpers,Black,Male,0
+116,2013,Facebook,Laborers & Helpers,Pacific Islander,Male,0
+117,2013,Facebook,Laborers & Helpers,Asian,Male,0
+118,2013,Facebook,Laborers & Helpers,American Indian,Male,0
+119,2013,Facebook,Laborers & Helpers,Two or More Races,Male,0
+120,2013,Facebook,Laborers & Helpers,White,Female,0
+121,2013,Facebook,Laborers & Helpers,Black,Female,0
+122,2013,Facebook,Laborers & Helpers,Pacific Islander,Female,0
+123,2013,Facebook,Laborers & Helpers,Asian,Female,0
+124,2013,Facebook,Laborers & Helpers,American Indian,Female,0
+125,2013,Facebook,Laborers & Helpers,Two or More Races,Female,0
+126,2013,Facebook,Service Workers,Hispanic,Male,2
+127,2013,Facebook,Service Workers,Hispanic,Female,1
+128,2013,Facebook,Service Workers,White,Male,6
+129,2013,Facebook,Service Workers,Black,Male,0
+130,2013,Facebook,Service Workers,Pacific Islander,Male,2
+131,2013,Facebook,Service Workers,Asian,Male,0
+132,2013,Facebook,Service Workers,American Indian,Male,0
+133,2013,Facebook,Service Workers,Two or More Races,Male,2
+134,2013,Facebook,Service Workers,White,Female,1
+135,2013,Facebook,Service Workers,Black,Female,0
+136,2013,Facebook,Service Workers,Pacific Islander,Female,0
+137,2013,Facebook,Service Workers,Asian,Female,0
+138,2013,Facebook,Service Workers,American Indian,Female,0
+139,2013,Facebook,Service Workers,Two or More Races,Female,0
+0,2014,Facebook,Executive/Sr. Officials/Mgrs,Hispanic,Male,7
+1,2014,Facebook,Executive/Sr. Officials/Mgrs,Hispanic,Female,3
+2,2014,Facebook,Executive/Sr. Officials/Mgrs,White,Male,136
+3,2014,Facebook,Executive/Sr. Officials/Mgrs,Black,Male,2
+4,2014,Facebook,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,1
+5,2014,Facebook,Executive/Sr. Officials/Mgrs,Asian,Male,35
+6,2014,Facebook,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+7,2014,Facebook,Executive/Sr. Officials/Mgrs,Two or More Races,Male,2
+8,2014,Facebook,Executive/Sr. Officials/Mgrs,White,Female,42
+9,2014,Facebook,Executive/Sr. Officials/Mgrs,Black,Female,1
+10,2014,Facebook,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2014,Facebook,Executive/Sr. Officials/Mgrs,Asian,Female,8
+12,2014,Facebook,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2014,Facebook,Executive/Sr. Officials/Mgrs,Two or More Races,Female,1
+14,2014,Facebook,First/Mid Managers,Hispanic,Male,13
+15,2014,Facebook,First/Mid Managers,Hispanic,Female,11
+16,2014,Facebook,First/Mid Managers,White,Male,361
+17,2014,Facebook,First/Mid Managers,Black,Male,10
+18,2014,Facebook,First/Mid Managers,Pacific Islander,Male,0
+19,2014,Facebook,First/Mid Managers,Asian,Male,160
+20,2014,Facebook,First/Mid Managers,American Indian,Male,0
+21,2014,Facebook,First/Mid Managers,Two or More Races,Male,16
+22,2014,Facebook,First/Mid Managers,White,Female,143
+23,2014,Facebook,First/Mid Managers,Black,Female,5
+24,2014,Facebook,First/Mid Managers,Pacific Islander,Female,0
+25,2014,Facebook,First/Mid Managers,Asian,Female,77
+26,2014,Facebook,First/Mid Managers,American Indian,Female,0
+27,2014,Facebook,First/Mid Managers,Two or More Races,Female,9
+28,2014,Facebook,Professionals,Hispanic,Male,95
+29,2014,Facebook,Professionals,Hispanic,Female,38
+30,2014,Facebook,Professionals,White,Male,1546
+31,2014,Facebook,Professionals,Black,Male,26
+32,2014,Facebook,Professionals,Pacific Islander,Male,5
+33,2014,Facebook,Professionals,Asian,Male,1121
+34,2014,Facebook,Professionals,American Indian,Male,3
+35,2014,Facebook,Professionals,Two or More Races,Male,86
+36,2014,Facebook,Professionals,White,Female,479
+37,2014,Facebook,Professionals,Black,Female,15
+38,2014,Facebook,Professionals,Pacific Islander,Female,3
+39,2014,Facebook,Professionals,Asian,Female,394
+40,2014,Facebook,Professionals,American Indian,Female,1
+41,2014,Facebook,Professionals,Two or More Races,Female,36
+42,2014,Facebook,Technicians,Hispanic,Male,4
+43,2014,Facebook,Technicians,Hispanic,Female,0
+44,2014,Facebook,Technicians,White,Male,41
+45,2014,Facebook,Technicians,Black,Male,2
+46,2014,Facebook,Technicians,Pacific Islander,Male,1
+47,2014,Facebook,Technicians,Asian,Male,11
+48,2014,Facebook,Technicians,American Indian,Male,1
+49,2014,Facebook,Technicians,Two or More Races,Male,0
+50,2014,Facebook,Technicians,White,Female,5
+51,2014,Facebook,Technicians,Black,Female,0
+52,2014,Facebook,Technicians,Pacific Islander,Female,0
+53,2014,Facebook,Technicians,Asian,Female,1
+54,2014,Facebook,Technicians,American Indian,Female,0
+55,2014,Facebook,Technicians,Two or More Races,Female,0
+56,2014,Facebook,Sales Workers,Hispanic,Male,10
+57,2014,Facebook,Sales Workers,Hispanic,Female,14
+58,2014,Facebook,Sales Workers,White,Male,106
+59,2014,Facebook,Sales Workers,Black,Male,6
+60,2014,Facebook,Sales Workers,Pacific Islander,Male,0
+61,2014,Facebook,Sales Workers,Asian,Male,20
+62,2014,Facebook,Sales Workers,American Indian,Male,0
+63,2014,Facebook,Sales Workers,Two or More Races,Male,2
+64,2014,Facebook,Sales Workers,White,Female,121
+65,2014,Facebook,Sales Workers,Black,Female,2
+66,2014,Facebook,Sales Workers,Pacific Islander,Female,1
+67,2014,Facebook,Sales Workers,Asian,Female,20
+68,2014,Facebook,Sales Workers,American Indian,Female,0
+69,2014,Facebook,Sales Workers,Two or More Races,Female,5
+70,2014,Facebook,Admin Support,Hispanic,Male,0
+71,2014,Facebook,Admin Support,Hispanic,Female,18
+72,2014,Facebook,Admin Support,White,Male,4
+73,2014,Facebook,Admin Support,Black,Male,0
+74,2014,Facebook,Admin Support,Pacific Islander,Male,1
+75,2014,Facebook,Admin Support,Asian,Male,1
+76,2014,Facebook,Admin Support,American Indian,Male,0
+77,2014,Facebook,Admin Support,Two or More Races,Male,0
+78,2014,Facebook,Admin Support,White,Female,87
+79,2014,Facebook,Admin Support,Black,Female,6
+80,2014,Facebook,Admin Support,Pacific Islander,Female,1
+81,2014,Facebook,Admin Support,Asian,Female,19
+82,2014,Facebook,Admin Support,American Indian,Female,0
+83,2014,Facebook,Admin Support,Two or More Races,Female,6
+84,2014,Facebook,Craft Workers,Hispanic,Male,0
+85,2014,Facebook,Craft Workers,Hispanic,Female,0
+86,2014,Facebook,Craft Workers,White,Male,43
+87,2014,Facebook,Craft Workers,Black,Male,5
+88,2014,Facebook,Craft Workers,Pacific Islander,Male,0
+89,2014,Facebook,Craft Workers,Asian,Male,1
+90,2014,Facebook,Craft Workers,American Indian,Male,0
+91,2014,Facebook,Craft Workers,Two or More Races,Male,0
+92,2014,Facebook,Craft Workers,White,Female,4
+93,2014,Facebook,Craft Workers,Black,Female,0
+94,2014,Facebook,Craft Workers,Pacific Islander,Female,0
+95,2014,Facebook,Craft Workers,Asian,Female,0
+96,2014,Facebook,Craft Workers,American Indian,Female,0
+97,2014,Facebook,Craft Workers,Two or More Races,Female,0
+98,2014,Facebook,Operatives,Hispanic,Male,0
+99,2014,Facebook,Operatives,Hispanic,Female,0
+100,2014,Facebook,Operatives,White,Male,0
+101,2014,Facebook,Operatives,Black,Male,0
+102,2014,Facebook,Operatives,Pacific Islander,Male,0
+103,2014,Facebook,Operatives,Asian,Male,0
+104,2014,Facebook,Operatives,American Indian,Male,0
+105,2014,Facebook,Operatives,Two or More Races,Male,0
+106,2014,Facebook,Operatives,White,Female,0
+107,2014,Facebook,Operatives,Black,Female,0
+108,2014,Facebook,Operatives,Pacific Islander,Female,0
+109,2014,Facebook,Operatives,Asian,Female,0
+110,2014,Facebook,Operatives,American Indian,Female,0
+111,2014,Facebook,Operatives,Two or More Races,Female,0
+112,2014,Facebook,Laborers & Helpers,Hispanic,Male,0
+113,2014,Facebook,Laborers & Helpers,Hispanic,Female,0
+114,2014,Facebook,Laborers & Helpers,White,Male,0
+115,2014,Facebook,Laborers & Helpers,Black,Male,0
+116,2014,Facebook,Laborers & Helpers,Pacific Islander,Male,0
+117,2014,Facebook,Laborers & Helpers,Asian,Male,0
+118,2014,Facebook,Laborers & Helpers,American Indian,Male,0
+119,2014,Facebook,Laborers & Helpers,Two or More Races,Male,0
+120,2014,Facebook,Laborers & Helpers,White,Female,0
+121,2014,Facebook,Laborers & Helpers,Black,Female,0
+122,2014,Facebook,Laborers & Helpers,Pacific Islander,Female,0
+123,2014,Facebook,Laborers & Helpers,Asian,Female,0
+124,2014,Facebook,Laborers & Helpers,American Indian,Female,0
+125,2014,Facebook,Laborers & Helpers,Two or More Races,Female,0
+126,2014,Facebook,Service Workers,Hispanic,Male,1
+127,2014,Facebook,Service Workers,Hispanic,Female,0
+128,2014,Facebook,Service Workers,White,Male,8
+129,2014,Facebook,Service Workers,Black,Male,1
+130,2014,Facebook,Service Workers,Pacific Islander,Male,2
+131,2014,Facebook,Service Workers,Asian,Male,2
+132,2014,Facebook,Service Workers,American Indian,Male,0
+133,2014,Facebook,Service Workers,Two or More Races,Male,2
+134,2014,Facebook,Service Workers,White,Female,3
+135,2014,Facebook,Service Workers,Black,Female,0
+136,2014,Facebook,Service Workers,Pacific Islander,Female,0
+137,2014,Facebook,Service Workers,Asian,Female,0
+138,2014,Facebook,Service Workers,American Indian,Female,0
+139,2014,Facebook,Service Workers,Two or More Races,Female,0
+0,2015,Facebook,Executive/Sr. Officials/Mgrs,Hispanic,Male,9
+1,2015,Facebook,Executive/Sr. Officials/Mgrs,Hispanic,Female,3
+2,2015,Facebook,Executive/Sr. Officials/Mgrs,White,Male,192
+3,2015,Facebook,Executive/Sr. Officials/Mgrs,Black,Male,5
+4,2015,Facebook,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,1
+5,2015,Facebook,Executive/Sr. Officials/Mgrs,Asian,Male,59
+6,2015,Facebook,Executive/Sr. Officials/Mgrs,American Indian,Male,1
+7,2015,Facebook,Executive/Sr. Officials/Mgrs,Two or More Races,Male,3
+8,2015,Facebook,Executive/Sr. Officials/Mgrs,White,Female,57
+9,2015,Facebook,Executive/Sr. Officials/Mgrs,Black,Female,3
+10,2015,Facebook,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2015,Facebook,Executive/Sr. Officials/Mgrs,Asian,Female,20
+12,2015,Facebook,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2015,Facebook,Executive/Sr. Officials/Mgrs,Two or More Races,Female,1
+14,2015,Facebook,First/Mid Managers,Hispanic,Male,22
+15,2015,Facebook,First/Mid Managers,Hispanic,Female,17
+16,2015,Facebook,First/Mid Managers,White,Male,515
+17,2015,Facebook,First/Mid Managers,Black,Male,13
+18,2015,Facebook,First/Mid Managers,Pacific Islander,Male,1
+19,2015,Facebook,First/Mid Managers,Asian,Male,249
+20,2015,Facebook,First/Mid Managers,American Indian,Male,0
+21,2015,Facebook,First/Mid Managers,Two or More Races,Male,26
+22,2015,Facebook,First/Mid Managers,White,Female,197
+23,2015,Facebook,First/Mid Managers,Black,Female,3
+24,2015,Facebook,First/Mid Managers,Pacific Islander,Female,1
+25,2015,Facebook,First/Mid Managers,Asian,Female,98
+26,2015,Facebook,First/Mid Managers,American Indian,Female,1
+27,2015,Facebook,First/Mid Managers,Two or More Races,Female,14
+28,2015,Facebook,Professionals,Hispanic,Male,163
+29,2015,Facebook,Professionals,Hispanic,Female,78
+30,2015,Facebook,Professionals,White,Male,2299
+31,2015,Facebook,Professionals,Black,Male,57
+32,2015,Facebook,Professionals,Pacific Islander,Male,5
+33,2015,Facebook,Professionals,Asian,Male,1784
+34,2015,Facebook,Professionals,American Indian,Male,4
+35,2015,Facebook,Professionals,Two or More Races,Male,110
+36,2015,Facebook,Professionals,White,Female,746
+37,2015,Facebook,Professionals,Black,Female,33
+38,2015,Facebook,Professionals,Pacific Islander,Female,7
+39,2015,Facebook,Professionals,Asian,Female,754
+40,2015,Facebook,Professionals,American Indian,Female,6
+41,2015,Facebook,Professionals,Two or More Races,Female,47
+42,2015,Facebook,Technicians,Hispanic,Male,5
+43,2015,Facebook,Technicians,Hispanic,Female,0
+44,2015,Facebook,Technicians,White,Male,68
+45,2015,Facebook,Technicians,Black,Male,2
+46,2015,Facebook,Technicians,Pacific Islander,Male,1
+47,2015,Facebook,Technicians,Asian,Male,13
+48,2015,Facebook,Technicians,American Indian,Male,1
+49,2015,Facebook,Technicians,Two or More Races,Male,2
+50,2015,Facebook,Technicians,White,Female,5
+51,2015,Facebook,Technicians,Black,Female,0
+52,2015,Facebook,Technicians,Pacific Islander,Female,0
+53,2015,Facebook,Technicians,Asian,Female,1
+54,2015,Facebook,Technicians,American Indian,Female,0
+55,2015,Facebook,Technicians,Two or More Races,Female,0
+56,2015,Facebook,Sales Workers,Hispanic,Male,17
+57,2015,Facebook,Sales Workers,Hispanic,Female,19
+58,2015,Facebook,Sales Workers,White,Male,154
+59,2015,Facebook,Sales Workers,Black,Male,8
+60,2015,Facebook,Sales Workers,Pacific Islander,Male,0
+61,2015,Facebook,Sales Workers,Asian,Male,25
+62,2015,Facebook,Sales Workers,American Indian,Male,0
+63,2015,Facebook,Sales Workers,Two or More Races,Male,5
+64,2015,Facebook,Sales Workers,White,Female,149
+65,2015,Facebook,Sales Workers,Black,Female,4
+66,2015,Facebook,Sales Workers,Pacific Islander,Female,1
+67,2015,Facebook,Sales Workers,Asian,Female,31
+68,2015,Facebook,Sales Workers,American Indian,Female,1
+69,2015,Facebook,Sales Workers,Two or More Races,Female,6
+70,2015,Facebook,Admin Support,Hispanic,Male,1
+71,2015,Facebook,Admin Support,Hispanic,Female,27
+72,2015,Facebook,Admin Support,White,Male,8
+73,2015,Facebook,Admin Support,Black,Male,1
+74,2015,Facebook,Admin Support,Pacific Islander,Male,0
+75,2015,Facebook,Admin Support,Asian,Male,1
+76,2015,Facebook,Admin Support,American Indian,Male,0
+77,2015,Facebook,Admin Support,Two or More Races,Male,1
+78,2015,Facebook,Admin Support,White,Female,128
+79,2015,Facebook,Admin Support,Black,Female,8
+80,2015,Facebook,Admin Support,Pacific Islander,Female,3
+81,2015,Facebook,Admin Support,Asian,Female,36
+82,2015,Facebook,Admin Support,American Indian,Female,2
+83,2015,Facebook,Admin Support,Two or More Races,Female,12
+84,2015,Facebook,Craft Workers,Hispanic,Male,1
+85,2015,Facebook,Craft Workers,Hispanic,Female,0
+86,2015,Facebook,Craft Workers,White,Male,49
+87,2015,Facebook,Craft Workers,Black,Male,6
+88,2015,Facebook,Craft Workers,Pacific Islander,Male,0
+89,2015,Facebook,Craft Workers,Asian,Male,1
+90,2015,Facebook,Craft Workers,American Indian,Male,0
+91,2015,Facebook,Craft Workers,Two or More Races,Male,0
+92,2015,Facebook,Craft Workers,White,Female,4
+93,2015,Facebook,Craft Workers,Black,Female,0
+94,2015,Facebook,Craft Workers,Pacific Islander,Female,0
+95,2015,Facebook,Craft Workers,Asian,Female,0
+96,2015,Facebook,Craft Workers,American Indian,Female,0
+97,2015,Facebook,Craft Workers,Two or More Races,Female,0
+98,2015,Facebook,Operatives,Hispanic,Male,0
+99,2015,Facebook,Operatives,Hispanic,Female,0
+100,2015,Facebook,Operatives,White,Male,0
+101,2015,Facebook,Operatives,Black,Male,0
+102,2015,Facebook,Operatives,Pacific Islander,Male,0
+103,2015,Facebook,Operatives,Asian,Male,0
+104,2015,Facebook,Operatives,American Indian,Male,0
+105,2015,Facebook,Operatives,Two or More Races,Male,0
+106,2015,Facebook,Operatives,White,Female,0
+107,2015,Facebook,Operatives,Black,Female,0
+108,2015,Facebook,Operatives,Pacific Islander,Female,0
+109,2015,Facebook,Operatives,Asian,Female,0
+110,2015,Facebook,Operatives,American Indian,Female,0
+111,2015,Facebook,Operatives,Two or More Races,Female,0
+112,2015,Facebook,Laborers & Helpers,Hispanic,Male,0
+113,2015,Facebook,Laborers & Helpers,Hispanic,Female,0
+114,2015,Facebook,Laborers & Helpers,White,Male,0
+115,2015,Facebook,Laborers & Helpers,Black,Male,0
+116,2015,Facebook,Laborers & Helpers,Pacific Islander,Male,0
+117,2015,Facebook,Laborers & Helpers,Asian,Male,0
+118,2015,Facebook,Laborers & Helpers,American Indian,Male,0
+119,2015,Facebook,Laborers & Helpers,Two or More Races,Male,0
+120,2015,Facebook,Laborers & Helpers,White,Female,0
+121,2015,Facebook,Laborers & Helpers,Black,Female,0
+122,2015,Facebook,Laborers & Helpers,Pacific Islander,Female,0
+123,2015,Facebook,Laborers & Helpers,Asian,Female,0
+124,2015,Facebook,Laborers & Helpers,American Indian,Female,0
+125,2015,Facebook,Laborers & Helpers,Two or More Races,Female,0
+126,2015,Facebook,Service Workers,Hispanic,Male,1
+127,2015,Facebook,Service Workers,Hispanic,Female,0
+128,2015,Facebook,Service Workers,White,Male,17
+129,2015,Facebook,Service Workers,Black,Male,2
+130,2015,Facebook,Service Workers,Pacific Islander,Male,2
+131,2015,Facebook,Service Workers,Asian,Male,6
+132,2015,Facebook,Service Workers,American Indian,Male,0
+133,2015,Facebook,Service Workers,Two or More Races,Male,1
+134,2015,Facebook,Service Workers,White,Female,3
+135,2015,Facebook,Service Workers,Black,Female,0
+136,2015,Facebook,Service Workers,Pacific Islander,Female,1
+137,2015,Facebook,Service Workers,Asian,Female,2
+138,2015,Facebook,Service Workers,American Indian,Female,0
+139,2015,Facebook,Service Workers,Two or More Races,Female,0
+0,2013,Google,Executive/Sr. Officials/Mgrs,Hispanic,Male,0
+1,2013,Google,Executive/Sr. Officials/Mgrs,Hispanic,Female,0
+2,2013,Google,Executive/Sr. Officials/Mgrs,White,Male,21
+3,2013,Google,Executive/Sr. Officials/Mgrs,Black,Male,1
+4,2013,Google,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+5,2013,Google,Executive/Sr. Officials/Mgrs,Asian,Male,10
+6,2013,Google,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+7,2013,Google,Executive/Sr. Officials/Mgrs,Two or More Races,Male,1
+8,2013,Google,Executive/Sr. Officials/Mgrs,White,Female,3
+9,2013,Google,Executive/Sr. Officials/Mgrs,Black,Female,0
+10,2013,Google,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2013,Google,Executive/Sr. Officials/Mgrs,Asian,Female,0
+12,2013,Google,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2013,Google,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+14,2013,Google,First/Mid Managers,Hispanic,Male,53
+15,2013,Google,First/Mid Managers,Hispanic,Female,27
+16,2013,Google,First/Mid Managers,White,Male,1791
+17,2013,Google,First/Mid Managers,Black,Male,28
+18,2013,Google,First/Mid Managers,Pacific Islander,Male,3
+19,2013,Google,First/Mid Managers,Asian,Male,632
+20,2013,Google,First/Mid Managers,American Indian,Male,7
+21,2013,Google,First/Mid Managers,Two or More Races,Male,53
+22,2013,Google,First/Mid Managers,White,Female,744
+23,2013,Google,First/Mid Managers,Black,Female,21
+24,2013,Google,First/Mid Managers,Pacific Islander,Female,5
+25,2013,Google,First/Mid Managers,Asian,Female,332
+26,2013,Google,First/Mid Managers,American Indian,Female,2
+27,2013,Google,First/Mid Managers,Two or More Races,Female,15
+28,2013,Google,Professionals,Hispanic,Male,369
+29,2013,Google,Professionals,Hispanic,Female,141
+30,2013,Google,Professionals,White,Male,8932
+31,2013,Google,Professionals,Black,Male,174
+32,2013,Google,Professionals,Pacific Islander,Male,29
+33,2013,Google,Professionals,Asian,Male,4469
+34,2013,Google,Professionals,American Indian,Male,18
+35,2013,Google,Professionals,Two or More Races,Male,352
+36,2013,Google,Professionals,White,Female,2205
+37,2013,Google,Professionals,Black,Female,115
+38,2013,Google,Professionals,Pacific Islander,Female,18
+39,2013,Google,Professionals,Asian,Female,1737
+40,2013,Google,Professionals,American Indian,Female,8
+41,2013,Google,Professionals,Two or More Races,Female,150
+42,2013,Google,Technicians,Hispanic,Male,16
+43,2013,Google,Technicians,Hispanic,Female,1
+44,2013,Google,Technicians,White,Male,287
+45,2013,Google,Technicians,Black,Male,14
+46,2013,Google,Technicians,Pacific Islander,Male,0
+47,2013,Google,Technicians,Asian,Male,31
+48,2013,Google,Technicians,American Indian,Male,4
+49,2013,Google,Technicians,Two or More Races,Male,7
+50,2013,Google,Technicians,White,Female,25
+51,2013,Google,Technicians,Black,Female,4
+52,2013,Google,Technicians,Pacific Islander,Female,0
+53,2013,Google,Technicians,Asian,Female,10
+54,2013,Google,Technicians,American Indian,Female,1
+55,2013,Google,Technicians,Two or More Races,Female,0
+56,2013,Google,Sales Workers,Hispanic,Male,65
+57,2013,Google,Sales Workers,Hispanic,Female,62
+58,2013,Google,Sales Workers,White,Male,1005
+59,2013,Google,Sales Workers,Black,Male,36
+60,2013,Google,Sales Workers,Pacific Islander,Male,1
+61,2013,Google,Sales Workers,Asian,Male,251
+62,2013,Google,Sales Workers,American Indian,Male,3
+63,2013,Google,Sales Workers,Two or More Races,Male,49
+64,2013,Google,Sales Workers,White,Female,1050
+65,2013,Google,Sales Workers,Black,Female,43
+66,2013,Google,Sales Workers,Pacific Islander,Female,1
+67,2013,Google,Sales Workers,Asian,Female,275
+68,2013,Google,Sales Workers,American Indian,Female,4
+69,2013,Google,Sales Workers,Two or More Races,Female,62
+70,2013,Google,Admin Support,Hispanic,Male,24
+71,2013,Google,Admin Support,Hispanic,Female,39
+72,2013,Google,Admin Support,White,Male,106
+73,2013,Google,Admin Support,Black,Male,13
+74,2013,Google,Admin Support,Pacific Islander,Male,3
+75,2013,Google,Admin Support,Asian,Male,34
+76,2013,Google,Admin Support,American Indian,Male,1
+77,2013,Google,Admin Support,Two or More Races,Male,15
+78,2013,Google,Admin Support,White,Female,299
+79,2013,Google,Admin Support,Black,Female,31
+80,2013,Google,Admin Support,Pacific Islander,Female,3
+81,2013,Google,Admin Support,Asian,Female,106
+82,2013,Google,Admin Support,American Indian,Female,0
+83,2013,Google,Admin Support,Two or More Races,Female,45
+84,2013,Google,Craft Workers,Hispanic,Male,0
+85,2013,Google,Craft Workers,Hispanic,Female,0
+86,2013,Google,Craft Workers,White,Male,0
+87,2013,Google,Craft Workers,Black,Male,0
+88,2013,Google,Craft Workers,Pacific Islander,Male,0
+89,2013,Google,Craft Workers,Asian,Male,0
+90,2013,Google,Craft Workers,American Indian,Male,0
+91,2013,Google,Craft Workers,Two or More Races,Male,0
+92,2013,Google,Craft Workers,White,Female,0
+93,2013,Google,Craft Workers,Black,Female,0
+94,2013,Google,Craft Workers,Pacific Islander,Female,0
+95,2013,Google,Craft Workers,Asian,Female,0
+96,2013,Google,Craft Workers,American Indian,Female,0
+97,2013,Google,Craft Workers,Two or More Races,Female,0
+98,2013,Google,Operatives,Hispanic,Male,0
+99,2013,Google,Operatives,Hispanic,Female,0
+100,2013,Google,Operatives,White,Male,0
+101,2013,Google,Operatives,Black,Male,0
+102,2013,Google,Operatives,Pacific Islander,Male,0
+103,2013,Google,Operatives,Asian,Male,0
+104,2013,Google,Operatives,American Indian,Male,0
+105,2013,Google,Operatives,Two or More Races,Male,0
+106,2013,Google,Operatives,White,Female,0
+107,2013,Google,Operatives,Black,Female,0
+108,2013,Google,Operatives,Pacific Islander,Female,0
+109,2013,Google,Operatives,Asian,Female,0
+110,2013,Google,Operatives,American Indian,Female,0
+111,2013,Google,Operatives,Two or More Races,Female,0
+112,2013,Google,Laborers & Helpers,Hispanic,Male,0
+113,2013,Google,Laborers & Helpers,Hispanic,Female,0
+114,2013,Google,Laborers & Helpers,White,Male,0
+115,2013,Google,Laborers & Helpers,Black,Male,0
+116,2013,Google,Laborers & Helpers,Pacific Islander,Male,0
+117,2013,Google,Laborers & Helpers,Asian,Male,0
+118,2013,Google,Laborers & Helpers,American Indian,Male,0
+119,2013,Google,Laborers & Helpers,Two or More Races,Male,0
+120,2013,Google,Laborers & Helpers,White,Female,0
+121,2013,Google,Laborers & Helpers,Black,Female,0
+122,2013,Google,Laborers & Helpers,Pacific Islander,Female,0
+123,2013,Google,Laborers & Helpers,Asian,Female,0
+124,2013,Google,Laborers & Helpers,American Indian,Female,0
+125,2013,Google,Laborers & Helpers,Two or More Races,Female,0
+126,2013,Google,Service Workers,Hispanic,Male,1
+127,2013,Google,Service Workers,Hispanic,Female,0
+128,2013,Google,Service Workers,White,Male,18
+129,2013,Google,Service Workers,Black,Male,2
+130,2013,Google,Service Workers,Pacific Islander,Male,0
+131,2013,Google,Service Workers,Asian,Male,1
+132,2013,Google,Service Workers,American Indian,Male,0
+133,2013,Google,Service Workers,Two or More Races,Male,0
+134,2013,Google,Service Workers,White,Female,38
+135,2013,Google,Service Workers,Black,Female,1
+136,2013,Google,Service Workers,Pacific Islander,Female,1
+137,2013,Google,Service Workers,Asian,Female,3
+138,2013,Google,Service Workers,American Indian,Female,0
+139,2013,Google,Service Workers,Two or More Races,Female,2
+0,2014,Google,Executive/Sr. Officials/Mgrs,Hispanic,Male,0
+1,2014,Google,Executive/Sr. Officials/Mgrs,Hispanic,Female,0
+2,2014,Google,Executive/Sr. Officials/Mgrs,White,Male,15
+3,2014,Google,Executive/Sr. Officials/Mgrs,Black,Male,1
+4,2014,Google,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+5,2014,Google,Executive/Sr. Officials/Mgrs,Asian,Male,5
+6,2014,Google,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+7,2014,Google,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+8,2014,Google,Executive/Sr. Officials/Mgrs,White,Female,4
+9,2014,Google,Executive/Sr. Officials/Mgrs,Black,Female,0
+10,2014,Google,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2014,Google,Executive/Sr. Officials/Mgrs,Asian,Female,0
+12,2014,Google,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2014,Google,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+14,2014,Google,First/Mid Managers,Hispanic,Male,208
+15,2014,Google,First/Mid Managers,Hispanic,Female,107
+16,2014,Google,First/Mid Managers,White,Male,3150
+17,2014,Google,First/Mid Managers,Black,Male,70
+18,2014,Google,First/Mid Managers,Pacific Islander,Male,10
+19,2014,Google,First/Mid Managers,Asian,Male,1162
+20,2014,Google,First/Mid Managers,American Indian,Male,6
+21,2014,Google,First/Mid Managers,Two or More Races,Male,75
+22,2014,Google,First/Mid Managers,White,Female,1622
+23,2014,Google,First/Mid Managers,Black,Female,60
+24,2014,Google,First/Mid Managers,Pacific Islander,Female,10
+25,2014,Google,First/Mid Managers,Asian,Female,739
+26,2014,Google,First/Mid Managers,American Indian,Female,2
+27,2014,Google,First/Mid Managers,Two or More Races,Female,53
+28,2014,Google,Professionals,Hispanic,Male,681
+29,2014,Google,Professionals,Hispanic,Female,221
+30,2014,Google,Professionals,White,Male,10483
+31,2014,Google,Professionals,Black,Male,240
+32,2014,Google,Professionals,Pacific Islander,Male,16
+33,2014,Google,Professionals,Asian,Male,5536
+34,2014,Google,Professionals,American Indian,Male,15
+35,2014,Google,Professionals,Two or More Races,Male,288
+36,2014,Google,Professionals,White,Female,2296
+37,2014,Google,Professionals,Black,Female,129
+38,2014,Google,Professionals,Pacific Islander,Female,12
+39,2014,Google,Professionals,Asian,Female,2068
+40,2014,Google,Professionals,American Indian,Female,8
+41,2014,Google,Professionals,Two or More Races,Female,137
+42,2014,Google,Technicians,Hispanic,Male,9
+43,2014,Google,Technicians,Hispanic,Female,0
+44,2014,Google,Technicians,White,Male,252
+45,2014,Google,Technicians,Black,Male,15
+46,2014,Google,Technicians,Pacific Islander,Male,1
+47,2014,Google,Technicians,Asian,Male,8
+48,2014,Google,Technicians,American Indian,Male,5
+49,2014,Google,Technicians,Two or More Races,Male,6
+50,2014,Google,Technicians,White,Female,33
+51,2014,Google,Technicians,Black,Female,4
+52,2014,Google,Technicians,Pacific Islander,Female,0
+53,2014,Google,Technicians,Asian,Female,2
+54,2014,Google,Technicians,American Indian,Female,0
+55,2014,Google,Technicians,Two or More Races,Female,1
+56,2014,Google,Sales Workers,Hispanic,Male,61
+57,2014,Google,Sales Workers,Hispanic,Female,70
+58,2014,Google,Sales Workers,White,Male,781
+59,2014,Google,Sales Workers,Black,Male,48
+60,2014,Google,Sales Workers,Pacific Islander,Male,1
+61,2014,Google,Sales Workers,Asian,Male,138
+62,2014,Google,Sales Workers,American Indian,Male,2
+63,2014,Google,Sales Workers,Two or More Races,Male,20
+64,2014,Google,Sales Workers,White,Female,757
+65,2014,Google,Sales Workers,Black,Female,34
+66,2014,Google,Sales Workers,Pacific Islander,Female,5
+67,2014,Google,Sales Workers,Asian,Female,140
+68,2014,Google,Sales Workers,American Indian,Female,2
+69,2014,Google,Sales Workers,Two or More Races,Female,27
+70,2014,Google,Admin Support,Hispanic,Male,17
+71,2014,Google,Admin Support,Hispanic,Female,49
+72,2014,Google,Admin Support,White,Male,78
+73,2014,Google,Admin Support,Black,Male,2
+74,2014,Google,Admin Support,Pacific Islander,Male,1
+75,2014,Google,Admin Support,Asian,Male,27
+76,2014,Google,Admin Support,American Indian,Male,0
+77,2014,Google,Admin Support,Two or More Races,Male,3
+78,2014,Google,Admin Support,White,Female,293
+79,2014,Google,Admin Support,Black,Female,23
+80,2014,Google,Admin Support,Pacific Islander,Female,3
+81,2014,Google,Admin Support,Asian,Female,96
+82,2014,Google,Admin Support,American Indian,Female,1
+83,2014,Google,Admin Support,Two or More Races,Female,25
+84,2014,Google,Craft Workers,Hispanic,Male,0
+85,2014,Google,Craft Workers,Hispanic,Female,0
+86,2014,Google,Craft Workers,White,Male,0
+87,2014,Google,Craft Workers,Black,Male,0
+88,2014,Google,Craft Workers,Pacific Islander,Male,0
+89,2014,Google,Craft Workers,Asian,Male,0
+90,2014,Google,Craft Workers,American Indian,Male,0
+91,2014,Google,Craft Workers,Two or More Races,Male,0
+92,2014,Google,Craft Workers,White,Female,0
+93,2014,Google,Craft Workers,Black,Female,0
+94,2014,Google,Craft Workers,Pacific Islander,Female,0
+95,2014,Google,Craft Workers,Asian,Female,0
+96,2014,Google,Craft Workers,American Indian,Female,0
+97,2014,Google,Craft Workers,Two or More Races,Female,0
+98,2014,Google,Operatives,Hispanic,Male,0
+99,2014,Google,Operatives,Hispanic,Female,0
+100,2014,Google,Operatives,White,Male,0
+101,2014,Google,Operatives,Black,Male,0
+102,2014,Google,Operatives,Pacific Islander,Male,0
+103,2014,Google,Operatives,Asian,Male,0
+104,2014,Google,Operatives,American Indian,Male,0
+105,2014,Google,Operatives,Two or More Races,Male,0
+106,2014,Google,Operatives,White,Female,0
+107,2014,Google,Operatives,Black,Female,0
+108,2014,Google,Operatives,Pacific Islander,Female,0
+109,2014,Google,Operatives,Asian,Female,0
+110,2014,Google,Operatives,American Indian,Female,0
+111,2014,Google,Operatives,Two or More Races,Female,0
+112,2014,Google,Laborers & Helpers,Hispanic,Male,0
+113,2014,Google,Laborers & Helpers,Hispanic,Female,0
+114,2014,Google,Laborers & Helpers,White,Male,0
+115,2014,Google,Laborers & Helpers,Black,Male,0
+116,2014,Google,Laborers & Helpers,Pacific Islander,Male,0
+117,2014,Google,Laborers & Helpers,Asian,Male,0
+118,2014,Google,Laborers & Helpers,American Indian,Male,0
+119,2014,Google,Laborers & Helpers,Two or More Races,Male,0
+120,2014,Google,Laborers & Helpers,White,Female,0
+121,2014,Google,Laborers & Helpers,Black,Female,0
+122,2014,Google,Laborers & Helpers,Pacific Islander,Female,0
+123,2014,Google,Laborers & Helpers,Asian,Female,0
+124,2014,Google,Laborers & Helpers,American Indian,Female,0
+125,2014,Google,Laborers & Helpers,Two or More Races,Female,0
+126,2014,Google,Service Workers,Hispanic,Male,5
+127,2014,Google,Service Workers,Hispanic,Female,0
+128,2014,Google,Service Workers,White,Male,41
+129,2014,Google,Service Workers,Black,Male,2
+130,2014,Google,Service Workers,Pacific Islander,Male,2
+131,2014,Google,Service Workers,Asian,Male,2
+132,2014,Google,Service Workers,American Indian,Male,0
+133,2014,Google,Service Workers,Two or More Races,Male,1
+134,2014,Google,Service Workers,White,Female,4
+135,2014,Google,Service Workers,Black,Female,0
+136,2014,Google,Service Workers,Pacific Islander,Female,0
+137,2014,Google,Service Workers,Asian,Female,1
+138,2014,Google,Service Workers,American Indian,Female,0
+139,2014,Google,Service Workers,Two or More Races,Female,0
+0,2014,Intel,Executive/Sr. Officials/Mgrs,Hispanic,Male,5
+1,2014,Intel,Executive/Sr. Officials/Mgrs,Hispanic,Female,1
+2,2014,Intel,Executive/Sr. Officials/Mgrs,White,Male,122
+3,2014,Intel,Executive/Sr. Officials/Mgrs,Black,Male,5
+4,2014,Intel,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,1
+5,2014,Intel,Executive/Sr. Officials/Mgrs,Asian,Male,25
+6,2014,Intel,Executive/Sr. Officials/Mgrs,American Indian,Male,1
+7,2014,Intel,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+8,2014,Intel,Executive/Sr. Officials/Mgrs,White,Female,22
+9,2014,Intel,Executive/Sr. Officials/Mgrs,Black,Female,1
+10,2014,Intel,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2014,Intel,Executive/Sr. Officials/Mgrs,Asian,Female,8
+12,2014,Intel,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2014,Intel,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+14,2014,Intel,First/Mid Managers,Hispanic,Male,338
+15,2014,Intel,First/Mid Managers,Hispanic,Female,86
+16,2014,Intel,First/Mid Managers,White,Male,3654
+17,2014,Intel,First/Mid Managers,Black,Male,127
+18,2014,Intel,First/Mid Managers,Pacific Islander,Male,1
+19,2014,Intel,First/Mid Managers,Asian,Male,1259
+20,2014,Intel,First/Mid Managers,American Indian,Male,15
+21,2014,Intel,First/Mid Managers,Two or More Races,Male,38
+22,2014,Intel,First/Mid Managers,White,Female,998
+23,2014,Intel,First/Mid Managers,Black,Female,36
+24,2014,Intel,First/Mid Managers,Pacific Islander,Female,4
+25,2014,Intel,First/Mid Managers,Asian,Female,335
+26,2014,Intel,First/Mid Managers,American Indian,Female,4
+27,2014,Intel,First/Mid Managers,Two or More Races,Female,8
+28,2014,Intel,Professionals,Hispanic,Male,1588
+29,2014,Intel,Professionals,Hispanic,Female,569
+30,2014,Intel,Professionals,White,Male,13717
+31,2014,Intel,Professionals,Black,Male,715
+32,2014,Intel,Professionals,Pacific Islander,Male,23
+33,2014,Intel,Professionals,Asian,Male,9457
+34,2014,Intel,Professionals,American Indian,Male,79
+35,2014,Intel,Professionals,Two or More Races,Male,238
+36,2014,Intel,Professionals,White,Female,3591
+37,2014,Intel,Professionals,Black,Female,284
+38,2014,Intel,Professionals,Pacific Islander,Female,9
+39,2014,Intel,Professionals,Asian,Female,3923
+40,2014,Intel,Professionals,American Indian,Female,34
+41,2014,Intel,Professionals,Two or More Races,Female,114
+42,2014,Intel,Technicians,Hispanic,Male,1214
+43,2014,Intel,Technicians,Hispanic,Female,246
+44,2014,Intel,Technicians,White,Male,4994
+45,2014,Intel,Technicians,Black,Male,536
+46,2014,Intel,Technicians,Pacific Islander,Male,24
+47,2014,Intel,Technicians,Asian,Male,900
+48,2014,Intel,Technicians,American Indian,Male,87
+49,2014,Intel,Technicians,Two or More Races,Male,115
+50,2014,Intel,Technicians,White,Female,689
+51,2014,Intel,Technicians,Black,Female,69
+52,2014,Intel,Technicians,Pacific Islander,Female,8
+53,2014,Intel,Technicians,Asian,Female,320
+54,2014,Intel,Technicians,American Indian,Female,28
+55,2014,Intel,Technicians,Two or More Races,Female,15
+56,2014,Intel,Sales Workers,Hispanic,Male,65
+57,2014,Intel,Sales Workers,Hispanic,Female,28
+58,2014,Intel,Sales Workers,White,Male,876
+59,2014,Intel,Sales Workers,Black,Male,35
+60,2014,Intel,Sales Workers,Pacific Islander,Male,3
+61,2014,Intel,Sales Workers,Asian,Male,103
+62,2014,Intel,Sales Workers,American Indian,Male,1
+63,2014,Intel,Sales Workers,Two or More Races,Male,12
+64,2014,Intel,Sales Workers,White,Female,244
+65,2014,Intel,Sales Workers,Black,Female,13
+66,2014,Intel,Sales Workers,Pacific Islander,Female,0
+67,2014,Intel,Sales Workers,Asian,Female,48
+68,2014,Intel,Sales Workers,American Indian,Female,3
+69,2014,Intel,Sales Workers,Two or More Races,Female,4
+70,2014,Intel,Admin Support,Hispanic,Male,18
+71,2014,Intel,Admin Support,Hispanic,Female,163
+72,2014,Intel,Admin Support,White,Male,68
+73,2014,Intel,Admin Support,Black,Male,9
+74,2014,Intel,Admin Support,Pacific Islander,Male,0
+75,2014,Intel,Admin Support,Asian,Male,12
+76,2014,Intel,Admin Support,American Indian,Male,0
+77,2014,Intel,Admin Support,Two or More Races,Male,1
+78,2014,Intel,Admin Support,White,Female,695
+79,2014,Intel,Admin Support,Black,Female,43
+80,2014,Intel,Admin Support,Pacific Islander,Female,0
+81,2014,Intel,Admin Support,Asian,Female,78
+82,2014,Intel,Admin Support,American Indian,Female,5
+83,2014,Intel,Admin Support,Two or More Races,Female,16
+84,2014,Intel,Craft Workers,Hispanic,Male,80
+85,2014,Intel,Craft Workers,Hispanic,Female,6
+86,2014,Intel,Craft Workers,White,Male,331
+87,2014,Intel,Craft Workers,Black,Male,16
+88,2014,Intel,Craft Workers,Pacific Islander,Male,0
+89,2014,Intel,Craft Workers,Asian,Male,22
+90,2014,Intel,Craft Workers,American Indian,Male,10
+91,2014,Intel,Craft Workers,Two or More Races,Male,7
+92,2014,Intel,Craft Workers,White,Female,18
+93,2014,Intel,Craft Workers,Black,Female,0
+94,2014,Intel,Craft Workers,Pacific Islander,Female,0
+95,2014,Intel,Craft Workers,Asian,Female,1
+96,2014,Intel,Craft Workers,American Indian,Female,2
+97,2014,Intel,Craft Workers,Two or More Races,Female,0
+98,2014,Intel,Operatives,Hispanic,Male,0
+99,2014,Intel,Operatives,Hispanic,Female,1
+100,2014,Intel,Operatives,White,Male,7
+101,2014,Intel,Operatives,Black,Male,0
+102,2014,Intel,Operatives,Pacific Islander,Male,0
+103,2014,Intel,Operatives,Asian,Male,0
+104,2014,Intel,Operatives,American Indian,Male,0
+105,2014,Intel,Operatives,Two or More Races,Male,0
+106,2014,Intel,Operatives,White,Female,6
+107,2014,Intel,Operatives,Black,Female,1
+108,2014,Intel,Operatives,Pacific Islander,Female,0
+109,2014,Intel,Operatives,Asian,Female,0
+110,2014,Intel,Operatives,American Indian,Female,0
+111,2014,Intel,Operatives,Two or More Races,Female,0
+112,2014,Intel,Laborers & Helpers,Hispanic,Male,0
+113,2014,Intel,Laborers & Helpers,Hispanic,Female,0
+114,2014,Intel,Laborers & Helpers,White,Male,0
+115,2014,Intel,Laborers & Helpers,Black,Male,0
+116,2014,Intel,Laborers & Helpers,Pacific Islander,Male,0
+117,2014,Intel,Laborers & Helpers,Asian,Male,1
+118,2014,Intel,Laborers & Helpers,American Indian,Male,0
+119,2014,Intel,Laborers & Helpers,Two or More Races,Male,0
+120,2014,Intel,Laborers & Helpers,White,Female,0
+121,2014,Intel,Laborers & Helpers,Black,Female,0
+122,2014,Intel,Laborers & Helpers,Pacific Islander,Female,0
+123,2014,Intel,Laborers & Helpers,Asian,Female,0
+124,2014,Intel,Laborers & Helpers,American Indian,Female,0
+125,2014,Intel,Laborers & Helpers,Two or More Races,Female,0
+126,2014,Intel,Service Workers,Hispanic,Male,0
+127,2014,Intel,Service Workers,Hispanic,Female,0
+128,2014,Intel,Service Workers,White,Male,0
+129,2014,Intel,Service Workers,Black,Male,0
+130,2014,Intel,Service Workers,Pacific Islander,Male,0
+131,2014,Intel,Service Workers,Asian,Male,0
+132,2014,Intel,Service Workers,American Indian,Male,0
+133,2014,Intel,Service Workers,Two or More Races,Male,0
+134,2014,Intel,Service Workers,White,Female,0
+135,2014,Intel,Service Workers,Black,Female,0
+136,2014,Intel,Service Workers,Pacific Islander,Female,0
+137,2014,Intel,Service Workers,Asian,Female,0
+138,2014,Intel,Service Workers,American Indian,Female,0
+139,2014,Intel,Service Workers,Two or More Races,Female,0
+0,2015,Intel,Executive/Sr. Officials/Mgrs,Hispanic,Male,1
+1,2015,Intel,Executive/Sr. Officials/Mgrs,Hispanic,Female,0
+2,2015,Intel,Executive/Sr. Officials/Mgrs,White,Male,65
+3,2015,Intel,Executive/Sr. Officials/Mgrs,Black,Male,2
+4,2015,Intel,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+5,2015,Intel,Executive/Sr. Officials/Mgrs,Asian,Male,8
+6,2015,Intel,Executive/Sr. Officials/Mgrs,American Indian,Male,1
+7,2015,Intel,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+8,2015,Intel,Executive/Sr. Officials/Mgrs,White,Female,9
+9,2015,Intel,Executive/Sr. Officials/Mgrs,Black,Female,1
+10,2015,Intel,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2015,Intel,Executive/Sr. Officials/Mgrs,Asian,Female,1
+12,2015,Intel,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2015,Intel,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+14,2015,Intel,First/Mid Managers,Hispanic,Male,347
+15,2015,Intel,First/Mid Managers,Hispanic,Female,99
+16,2015,Intel,First/Mid Managers,White,Male,3527
+17,2015,Intel,First/Mid Managers,Black,Male,133
+18,2015,Intel,First/Mid Managers,Pacific Islander,Male,4
+19,2015,Intel,First/Mid Managers,Asian,Male,1332
+20,2015,Intel,First/Mid Managers,American Indian,Male,33
+21,2015,Intel,First/Mid Managers,Two or More Races,Male,26
+22,2015,Intel,First/Mid Managers,White,Female,1050
+23,2015,Intel,First/Mid Managers,Black,Female,49
+24,2015,Intel,First/Mid Managers,Pacific Islander,Female,5
+25,2015,Intel,First/Mid Managers,Asian,Female,391
+26,2015,Intel,First/Mid Managers,American Indian,Female,6
+27,2015,Intel,First/Mid Managers,Two or More Races,Female,13
+28,2015,Intel,Professionals,Hispanic,Male,1696
+29,2015,Intel,Professionals,Hispanic,Female,611
+30,2015,Intel,Professionals,White,Male,13415
+31,2015,Intel,Professionals,Black,Male,744
+32,2015,Intel,Professionals,Pacific Islander,Male,21
+33,2015,Intel,Professionals,Asian,Male,9913
+34,2015,Intel,Professionals,American Indian,Male,79
+35,2015,Intel,Professionals,Two or More Races,Male,248
+36,2015,Intel,Professionals,White,Female,3570
+37,2015,Intel,Professionals,Black,Female,316
+38,2015,Intel,Professionals,Pacific Islander,Female,8
+39,2015,Intel,Professionals,Asian,Female,4317
+40,2015,Intel,Professionals,American Indian,Female,40
+41,2015,Intel,Professionals,Two or More Races,Female,118
+42,2015,Intel,Technicians,Hispanic,Male,1149
+43,2015,Intel,Technicians,Hispanic,Female,236
+44,2015,Intel,Technicians,White,Male,4725
+45,2015,Intel,Technicians,Black,Male,505
+46,2015,Intel,Technicians,Pacific Islander,Male,24
+47,2015,Intel,Technicians,Asian,Male,839
+48,2015,Intel,Technicians,American Indian,Male,85
+49,2015,Intel,Technicians,Two or More Races,Male,127
+50,2015,Intel,Technicians,White,Female,613
+51,2015,Intel,Technicians,Black,Female,54
+52,2015,Intel,Technicians,Pacific Islander,Female,9
+53,2015,Intel,Technicians,Asian,Female,306
+54,2015,Intel,Technicians,American Indian,Female,26
+55,2015,Intel,Technicians,Two or More Races,Female,18
+56,2015,Intel,Sales Workers,Hispanic,Male,53
+57,2015,Intel,Sales Workers,Hispanic,Female,25
+58,2015,Intel,Sales Workers,White,Male,810
+59,2015,Intel,Sales Workers,Black,Male,39
+60,2015,Intel,Sales Workers,Pacific Islander,Male,1
+61,2015,Intel,Sales Workers,Asian,Male,109
+62,2015,Intel,Sales Workers,American Indian,Male,1
+63,2015,Intel,Sales Workers,Two or More Races,Male,5
+64,2015,Intel,Sales Workers,White,Female,233
+65,2015,Intel,Sales Workers,Black,Female,12
+66,2015,Intel,Sales Workers,Pacific Islander,Female,0
+67,2015,Intel,Sales Workers,Asian,Female,48
+68,2015,Intel,Sales Workers,American Indian,Female,2
+69,2015,Intel,Sales Workers,Two or More Races,Female,2
+70,2015,Intel,Admin Support,Hispanic,Male,13
+71,2015,Intel,Admin Support,Hispanic,Female,156
+72,2015,Intel,Admin Support,White,Male,46
+73,2015,Intel,Admin Support,Black,Male,10
+74,2015,Intel,Admin Support,Pacific Islander,Male,0
+75,2015,Intel,Admin Support,Asian,Male,8
+76,2015,Intel,Admin Support,American Indian,Male,0
+77,2015,Intel,Admin Support,Two or More Races,Male,1
+78,2015,Intel,Admin Support,White,Female,643
+79,2015,Intel,Admin Support,Black,Female,39
+80,2015,Intel,Admin Support,Pacific Islander,Female,2
+81,2015,Intel,Admin Support,Asian,Female,82
+82,2015,Intel,Admin Support,American Indian,Female,6
+83,2015,Intel,Admin Support,Two or More Races,Female,12
+84,2015,Intel,Craft Workers,Hispanic,Male,76
+85,2015,Intel,Craft Workers,Hispanic,Female,4
+86,2015,Intel,Craft Workers,White,Male,298
+87,2015,Intel,Craft Workers,Black,Male,19
+88,2015,Intel,Craft Workers,Pacific Islander,Male,0
+89,2015,Intel,Craft Workers,Asian,Male,21
+90,2015,Intel,Craft Workers,American Indian,Male,9
+91,2015,Intel,Craft Workers,Two or More Races,Male,7
+92,2015,Intel,Craft Workers,White,Female,19
+93,2015,Intel,Craft Workers,Black,Female,3
+94,2015,Intel,Craft Workers,Pacific Islander,Female,0
+95,2015,Intel,Craft Workers,Asian,Female,1
+96,2015,Intel,Craft Workers,American Indian,Female,2
+97,2015,Intel,Craft Workers,Two or More Races,Female,0
+98,2015,Intel,Operatives,Hispanic,Male,0
+99,2015,Intel,Operatives,Hispanic,Female,0
+100,2015,Intel,Operatives,White,Male,0
+101,2015,Intel,Operatives,Black,Male,0
+102,2015,Intel,Operatives,Pacific Islander,Male,0
+103,2015,Intel,Operatives,Asian,Male,0
+104,2015,Intel,Operatives,American Indian,Male,0
+105,2015,Intel,Operatives,Two or More Races,Male,0
+106,2015,Intel,Operatives,White,Female,0
+107,2015,Intel,Operatives,Black,Female,0
+108,2015,Intel,Operatives,Pacific Islander,Female,0
+109,2015,Intel,Operatives,Asian,Female,0
+110,2015,Intel,Operatives,American Indian,Female,0
+111,2015,Intel,Operatives,Two or More Races,Female,0
+112,2015,Intel,Laborers & Helpers,Hispanic,Male,0
+113,2015,Intel,Laborers & Helpers,Hispanic,Female,0
+114,2015,Intel,Laborers & Helpers,White,Male,0
+115,2015,Intel,Laborers & Helpers,Black,Male,1
+116,2015,Intel,Laborers & Helpers,Pacific Islander,Male,0
+117,2015,Intel,Laborers & Helpers,Asian,Male,0
+118,2015,Intel,Laborers & Helpers,American Indian,Male,0
+119,2015,Intel,Laborers & Helpers,Two or More Races,Male,0
+120,2015,Intel,Laborers & Helpers,White,Female,0
+121,2015,Intel,Laborers & Helpers,Black,Female,0
+122,2015,Intel,Laborers & Helpers,Pacific Islander,Female,0
+123,2015,Intel,Laborers & Helpers,Asian,Female,0
+124,2015,Intel,Laborers & Helpers,American Indian,Female,0
+125,2015,Intel,Laborers & Helpers,Two or More Races,Female,0
+126,2015,Intel,Service Workers,Hispanic,Male,0
+127,2015,Intel,Service Workers,Hispanic,Female,0
+128,2015,Intel,Service Workers,White,Male,0
+129,2015,Intel,Service Workers,Black,Male,0
+130,2015,Intel,Service Workers,Pacific Islander,Male,0
+131,2015,Intel,Service Workers,Asian,Male,0
+132,2015,Intel,Service Workers,American Indian,Male,0
+133,2015,Intel,Service Workers,Two or More Races,Male,0
+134,2015,Intel,Service Workers,White,Female,0
+135,2015,Intel,Service Workers,Black,Female,0
+136,2015,Intel,Service Workers,Pacific Islander,Female,0
+137,2015,Intel,Service Workers,Asian,Female,0
+138,2015,Intel,Service Workers,American Indian,Female,0
+139,2015,Intel,Service Workers,Two or More Races,Female,0
+0,2013,LinkedIn,Executive/Sr. Officials/Mgrs,Hispanic,Male,2
+1,2013,LinkedIn,Executive/Sr. Officials/Mgrs,Hispanic,Female,2
+2,2013,LinkedIn,Executive/Sr. Officials/Mgrs,White,Male,89
+3,2013,LinkedIn,Executive/Sr. Officials/Mgrs,Black,Male,2
+4,2013,LinkedIn,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+5,2013,LinkedIn,Executive/Sr. Officials/Mgrs,Asian,Male,25
+6,2013,LinkedIn,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+7,2013,LinkedIn,Executive/Sr. Officials/Mgrs,Two or More Races,Male,4
+8,2013,LinkedIn,Executive/Sr. Officials/Mgrs,White,Female,30
+9,2013,LinkedIn,Executive/Sr. Officials/Mgrs,Black,Female,0
+10,2013,LinkedIn,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2013,LinkedIn,Executive/Sr. Officials/Mgrs,Asian,Female,13
+12,2013,LinkedIn,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2013,LinkedIn,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+14,2013,LinkedIn,First/Mid Managers,Hispanic,Male,7
+15,2013,LinkedIn,First/Mid Managers,Hispanic,Female,10
+16,2013,LinkedIn,First/Mid Managers,White,Male,149
+17,2013,LinkedIn,First/Mid Managers,Black,Male,1
+18,2013,LinkedIn,First/Mid Managers,Pacific Islander,Male,0
+19,2013,LinkedIn,First/Mid Managers,Asian,Male,95
+20,2013,LinkedIn,First/Mid Managers,American Indian,Male,0
+21,2013,LinkedIn,First/Mid Managers,Two or More Races,Male,8
+22,2013,LinkedIn,First/Mid Managers,White,Female,80
+23,2013,LinkedIn,First/Mid Managers,Black,Female,2
+24,2013,LinkedIn,First/Mid Managers,Pacific Islander,Female,0
+25,2013,LinkedIn,First/Mid Managers,Asian,Female,48
+26,2013,LinkedIn,First/Mid Managers,American Indian,Female,1
+27,2013,LinkedIn,First/Mid Managers,Two or More Races,Female,6
+28,2013,LinkedIn,Professionals,Hispanic,Male,43
+29,2013,LinkedIn,Professionals,Hispanic,Female,26
+30,2013,LinkedIn,Professionals,White,Male,632
+31,2013,LinkedIn,Professionals,Black,Male,17
+32,2013,LinkedIn,Professionals,Pacific Islander,Male,9
+33,2013,LinkedIn,Professionals,Asian,Male,620
+34,2013,LinkedIn,Professionals,American Indian,Male,1
+35,2013,LinkedIn,Professionals,Two or More Races,Male,32
+36,2013,LinkedIn,Professionals,White,Female,327
+37,2013,LinkedIn,Professionals,Black,Female,13
+38,2013,LinkedIn,Professionals,Pacific Islander,Female,2
+39,2013,LinkedIn,Professionals,Asian,Female,314
+40,2013,LinkedIn,Professionals,American Indian,Female,1
+41,2013,LinkedIn,Professionals,Two or More Races,Female,9
+42,2013,LinkedIn,Technicians,Hispanic,Male,0
+43,2013,LinkedIn,Technicians,Hispanic,Female,0
+44,2013,LinkedIn,Technicians,White,Male,0
+45,2013,LinkedIn,Technicians,Black,Male,0
+46,2013,LinkedIn,Technicians,Pacific Islander,Male,0
+47,2013,LinkedIn,Technicians,Asian,Male,0
+48,2013,LinkedIn,Technicians,American Indian,Male,0
+49,2013,LinkedIn,Technicians,Two or More Races,Male,0
+50,2013,LinkedIn,Technicians,White,Female,0
+51,2013,LinkedIn,Technicians,Black,Female,0
+52,2013,LinkedIn,Technicians,Pacific Islander,Female,0
+53,2013,LinkedIn,Technicians,Asian,Female,0
+54,2013,LinkedIn,Technicians,American Indian,Female,0
+55,2013,LinkedIn,Technicians,Two or More Races,Female,0
+56,2013,LinkedIn,Sales Workers,Hispanic,Male,12
+57,2013,LinkedIn,Sales Workers,Hispanic,Female,12
+58,2013,LinkedIn,Sales Workers,White,Male,263
+59,2013,LinkedIn,Sales Workers,Black,Male,9
+60,2013,LinkedIn,Sales Workers,Pacific Islander,Male,0
+61,2013,LinkedIn,Sales Workers,Asian,Male,17
+62,2013,LinkedIn,Sales Workers,American Indian,Male,0
+63,2013,LinkedIn,Sales Workers,Two or More Races,Male,9
+64,2013,LinkedIn,Sales Workers,White,Female,187
+65,2013,LinkedIn,Sales Workers,Black,Female,4
+66,2013,LinkedIn,Sales Workers,Pacific Islander,Female,0
+67,2013,LinkedIn,Sales Workers,Asian,Female,27
+68,2013,LinkedIn,Sales Workers,American Indian,Female,0
+69,2013,LinkedIn,Sales Workers,Two or More Races,Female,6
+70,2013,LinkedIn,Admin Support,Hispanic,Male,8
+71,2013,LinkedIn,Admin Support,Hispanic,Female,12
+72,2013,LinkedIn,Admin Support,White,Male,32
+73,2013,LinkedIn,Admin Support,Black,Male,7
+74,2013,LinkedIn,Admin Support,Pacific Islander,Male,0
+75,2013,LinkedIn,Admin Support,Asian,Male,4
+76,2013,LinkedIn,Admin Support,American Indian,Male,0
+77,2013,LinkedIn,Admin Support,Two or More Races,Male,3
+78,2013,LinkedIn,Admin Support,White,Female,70
+79,2013,LinkedIn,Admin Support,Black,Female,4
+80,2013,LinkedIn,Admin Support,Pacific Islander,Female,0
+81,2013,LinkedIn,Admin Support,Asian,Female,9
+82,2013,LinkedIn,Admin Support,American Indian,Female,0
+83,2013,LinkedIn,Admin Support,Two or More Races,Female,4
+84,2013,LinkedIn,Craft Workers,Hispanic,Male,0
+85,2013,LinkedIn,Craft Workers,Hispanic,Female,0
+86,2013,LinkedIn,Craft Workers,White,Male,0
+87,2013,LinkedIn,Craft Workers,Black,Male,0
+88,2013,LinkedIn,Craft Workers,Pacific Islander,Male,0
+89,2013,LinkedIn,Craft Workers,Asian,Male,0
+90,2013,LinkedIn,Craft Workers,American Indian,Male,0
+91,2013,LinkedIn,Craft Workers,Two or More Races,Male,0
+92,2013,LinkedIn,Craft Workers,White,Female,0
+93,2013,LinkedIn,Craft Workers,Black,Female,0
+94,2013,LinkedIn,Craft Workers,Pacific Islander,Female,0
+95,2013,LinkedIn,Craft Workers,Asian,Female,0
+96,2013,LinkedIn,Craft Workers,American Indian,Female,0
+97,2013,LinkedIn,Craft Workers,Two or More Races,Female,0
+98,2013,LinkedIn,Operatives,Hispanic,Male,0
+99,2013,LinkedIn,Operatives,Hispanic,Female,0
+100,2013,LinkedIn,Operatives,White,Male,0
+101,2013,LinkedIn,Operatives,Black,Male,0
+102,2013,LinkedIn,Operatives,Pacific Islander,Male,0
+103,2013,LinkedIn,Operatives,Asian,Male,0
+104,2013,LinkedIn,Operatives,American Indian,Male,0
+105,2013,LinkedIn,Operatives,Two or More Races,Male,0
+106,2013,LinkedIn,Operatives,White,Female,0
+107,2013,LinkedIn,Operatives,Black,Female,0
+108,2013,LinkedIn,Operatives,Pacific Islander,Female,0
+109,2013,LinkedIn,Operatives,Asian,Female,0
+110,2013,LinkedIn,Operatives,American Indian,Female,0
+111,2013,LinkedIn,Operatives,Two or More Races,Female,0
+112,2013,LinkedIn,Laborers & Helpers,Hispanic,Male,0
+113,2013,LinkedIn,Laborers & Helpers,Hispanic,Female,0
+114,2013,LinkedIn,Laborers & Helpers,White,Male,0
+115,2013,LinkedIn,Laborers & Helpers,Black,Male,0
+116,2013,LinkedIn,Laborers & Helpers,Pacific Islander,Male,0
+117,2013,LinkedIn,Laborers & Helpers,Asian,Male,0
+118,2013,LinkedIn,Laborers & Helpers,American Indian,Male,0
+119,2013,LinkedIn,Laborers & Helpers,Two or More Races,Male,0
+120,2013,LinkedIn,Laborers & Helpers,White,Female,0
+121,2013,LinkedIn,Laborers & Helpers,Black,Female,0
+122,2013,LinkedIn,Laborers & Helpers,Pacific Islander,Female,0
+123,2013,LinkedIn,Laborers & Helpers,Asian,Female,0
+124,2013,LinkedIn,Laborers & Helpers,American Indian,Female,0
+125,2013,LinkedIn,Laborers & Helpers,Two or More Races,Female,0
+126,2013,LinkedIn,Service Workers,Hispanic,Male,0
+127,2013,LinkedIn,Service Workers,Hispanic,Female,0
+128,2013,LinkedIn,Service Workers,White,Male,0
+129,2013,LinkedIn,Service Workers,Black,Male,0
+130,2013,LinkedIn,Service Workers,Pacific Islander,Male,0
+131,2013,LinkedIn,Service Workers,Asian,Male,0
+132,2013,LinkedIn,Service Workers,American Indian,Male,0
+133,2013,LinkedIn,Service Workers,Two or More Races,Male,0
+134,2013,LinkedIn,Service Workers,White,Female,0
+135,2013,LinkedIn,Service Workers,Black,Female,0
+136,2013,LinkedIn,Service Workers,Pacific Islander,Female,0
+137,2013,LinkedIn,Service Workers,Asian,Female,0
+138,2013,LinkedIn,Service Workers,American Indian,Female,0
+139,2013,LinkedIn,Service Workers,Two or More Races,Female,0
+0,2014,LinkedIn,Executive/Sr. Officials/Mgrs,Hispanic,Male,6
+1,2014,LinkedIn,Executive/Sr. Officials/Mgrs,Hispanic,Female,2
+2,2014,LinkedIn,Executive/Sr. Officials/Mgrs,White,Male,89
+3,2014,LinkedIn,Executive/Sr. Officials/Mgrs,Black,Male,2
+4,2014,LinkedIn,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
+5,2014,LinkedIn,Executive/Sr. Officials/Mgrs,Asian,Male,44
+6,2014,LinkedIn,Executive/Sr. Officials/Mgrs,American Indian,Male,0
+7,2014,LinkedIn,Executive/Sr. Officials/Mgrs,Two or More Races,Male,4
+8,2014,LinkedIn,Executive/Sr. Officials/Mgrs,White,Female,39
+9,2014,LinkedIn,Executive/Sr. Officials/Mgrs,Black,Female,0
+10,2014,LinkedIn,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2014,LinkedIn,Executive/Sr. Officials/Mgrs,Asian,Female,13
+12,2014,LinkedIn,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2014,LinkedIn,Executive/Sr. Officials/Mgrs,Two or More Races,Female,1
+14,2014,LinkedIn,First/Mid Managers,Hispanic,Male,11
+15,2014,LinkedIn,First/Mid Managers,Hispanic,Female,14
+16,2014,LinkedIn,First/Mid Managers,White,Male,191
+17,2014,LinkedIn,First/Mid Managers,Black,Male,5
+18,2014,LinkedIn,First/Mid Managers,Pacific Islander,Male,0
+19,2014,LinkedIn,First/Mid Managers,Asian,Male,124
+20,2014,LinkedIn,First/Mid Managers,American Indian,Male,0
+21,2014,LinkedIn,First/Mid Managers,Two or More Races,Male,13
+22,2014,LinkedIn,First/Mid Managers,White,Female,113
+23,2014,LinkedIn,First/Mid Managers,Black,Female,4
+24,2014,LinkedIn,First/Mid Managers,Pacific Islander,Female,1
+25,2014,LinkedIn,First/Mid Managers,Asian,Female,65
+26,2014,LinkedIn,First/Mid Managers,American Indian,Female,0
+27,2014,LinkedIn,First/Mid Managers,Two or More Races,Female,4
+28,2014,LinkedIn,Professionals,Hispanic,Male,64
+29,2014,LinkedIn,Professionals,Hispanic,Female,41
+30,2014,LinkedIn,Professionals,White,Male,699
+31,2014,LinkedIn,Professionals,Black,Male,33
+32,2014,LinkedIn,Professionals,Pacific Islander,Male,7
+33,2014,LinkedIn,Professionals,Asian,Male,909
+34,2014,LinkedIn,Professionals,American Indian,Male,2
+35,2014,LinkedIn,Professionals,Two or More Races,Male,28
+36,2014,LinkedIn,Professionals,White,Female,388
+37,2014,LinkedIn,Professionals,Black,Female,14
+38,2014,LinkedIn,Professionals,Pacific Islander,Female,2
+39,2014,LinkedIn,Professionals,Asian,Female,471
+40,2014,LinkedIn,Professionals,American Indian,Female,3
+41,2014,LinkedIn,Professionals,Two or More Races,Female,14
+42,2014,LinkedIn,Technicians,Hispanic,Male,0
+43,2014,LinkedIn,Technicians,Hispanic,Female,0
+44,2014,LinkedIn,Technicians,White,Male,0
+45,2014,LinkedIn,Technicians,Black,Male,0
+46,2014,LinkedIn,Technicians,Pacific Islander,Male,0
+47,2014,LinkedIn,Technicians,Asian,Male,0
+48,2014,LinkedIn,Technicians,American Indian,Male,0
+49,2014,LinkedIn,Technicians,Two or More Races,Male,0
+50,2014,LinkedIn,Technicians,White,Female,0
+51,2014,LinkedIn,Technicians,Black,Female,0
+52,2014,LinkedIn,Technicians,Pacific Islander,Female,0
+53,2014,LinkedIn,Technicians,Asian,Female,0
+54,2014,LinkedIn,Technicians,American Indian,Female,0
+55,2014,LinkedIn,Technicians,Two or More Races,Female,0
+56,2014,LinkedIn,Sales Workers,Hispanic,Male,9
+57,2014,LinkedIn,Sales Workers,Hispanic,Female,16
+58,2014,LinkedIn,Sales Workers,White,Male,280
+59,2014,LinkedIn,Sales Workers,Black,Male,13
+60,2014,LinkedIn,Sales Workers,Pacific Islander,Male,0
+61,2014,LinkedIn,Sales Workers,Asian,Male,24
+62,2014,LinkedIn,Sales Workers,American Indian,Male,0
+63,2014,LinkedIn,Sales Workers,Two or More Races,Male,6
+64,2014,LinkedIn,Sales Workers,White,Female,243
+65,2014,LinkedIn,Sales Workers,Black,Female,6
+66,2014,LinkedIn,Sales Workers,Pacific Islander,Female,0
+67,2014,LinkedIn,Sales Workers,Asian,Female,34
+68,2014,LinkedIn,Sales Workers,American Indian,Female,0
+69,2014,LinkedIn,Sales Workers,Two or More Races,Female,8
+70,2014,LinkedIn,Admin Support,Hispanic,Male,6
+71,2014,LinkedIn,Admin Support,Hispanic,Female,13
+72,2014,LinkedIn,Admin Support,White,Male,41
+73,2014,LinkedIn,Admin Support,Black,Male,5
+74,2014,LinkedIn,Admin Support,Pacific Islander,Male,0
+75,2014,LinkedIn,Admin Support,Asian,Male,4
+76,2014,LinkedIn,Admin Support,American Indian,Male,0
+77,2014,LinkedIn,Admin Support,Two or More Races,Male,2
+78,2014,LinkedIn,Admin Support,White,Female,83
+79,2014,LinkedIn,Admin Support,Black,Female,9
+80,2014,LinkedIn,Admin Support,Pacific Islander,Female,0
+81,2014,LinkedIn,Admin Support,Asian,Female,11
+82,2014,LinkedIn,Admin Support,American Indian,Female,0
+83,2014,LinkedIn,Admin Support,Two or More Races,Female,2
+84,2014,LinkedIn,Craft Workers,Hispanic,Male,0
+85,2014,LinkedIn,Craft Workers,Hispanic,Female,0
+86,2014,LinkedIn,Craft Workers,White,Male,0
+87,2014,LinkedIn,Craft Workers,Black,Male,0
+88,2014,LinkedIn,Craft Workers,Pacific Islander,Male,0
+89,2014,LinkedIn,Craft Workers,Asian,Male,0
+90,2014,LinkedIn,Craft Workers,American Indian,Male,0
+91,2014,LinkedIn,Craft Workers,Two or More Races,Male,0
+92,2014,LinkedIn,Craft Workers,White,Female,0
+93,2014,LinkedIn,Craft Workers,Black,Female,0
+94,2014,LinkedIn,Craft Workers,Pacific Islander,Female,0
+95,2014,LinkedIn,Craft Workers,Asian,Female,0
+96,2014,LinkedIn,Craft Workers,American Indian,Female,0
+97,2014,LinkedIn,Craft Workers,Two or More Races,Female,0
+98,2014,LinkedIn,Operatives,Hispanic,Male,0
+99,2014,LinkedIn,Operatives,Hispanic,Female,0
+100,2014,LinkedIn,Operatives,White,Male,0
+101,2014,LinkedIn,Operatives,Black,Male,0
+102,2014,LinkedIn,Operatives,Pacific Islander,Male,0
+103,2014,LinkedIn,Operatives,Asian,Male,0
+104,2014,LinkedIn,Operatives,American Indian,Male,0
+105,2014,LinkedIn,Operatives,Two or More Races,Male,0
+106,2014,LinkedIn,Operatives,White,Female,0
+107,2014,LinkedIn,Operatives,Black,Female,0
+108,2014,LinkedIn,Operatives,Pacific Islander,Female,0
+109,2014,LinkedIn,Operatives,Asian,Female,0
+110,2014,LinkedIn,Operatives,American Indian,Female,0
+111,2014,LinkedIn,Operatives,Two or More Races,Female,0
+112,2014,LinkedIn,Laborers & Helpers,Hispanic,Male,0
+113,2014,LinkedIn,Laborers & Helpers,Hispanic,Female,0
+114,2014,LinkedIn,Laborers & Helpers,White,Male,0
+115,2014,LinkedIn,Laborers & Helpers,Black,Male,0
+116,2014,LinkedIn,Laborers & Helpers,Pacific Islander,Male,0
+117,2014,LinkedIn,Laborers & Helpers,Asian,Male,0
+118,2014,LinkedIn,Laborers & Helpers,American Indian,Male,0
+119,2014,LinkedIn,Laborers & Helpers,Two or More Races,Male,0
+120,2014,LinkedIn,Laborers & Helpers,White,Female,0
+121,2014,LinkedIn,Laborers & Helpers,Black,Female,0
+122,2014,LinkedIn,Laborers & Helpers,Pacific Islander,Female,0
+123,2014,LinkedIn,Laborers & Helpers,Asian,Female,0
+124,2014,LinkedIn,Laborers & Helpers,American Indian,Female,0
+125,2014,LinkedIn,Laborers & Helpers,Two or More Races,Female,0
+126,2014,LinkedIn,Service Workers,Hispanic,Male,0
+127,2014,LinkedIn,Service Workers,Hispanic,Female,0
+128,2014,LinkedIn,Service Workers,White,Male,0
+129,2014,LinkedIn,Service Workers,Black,Male,0
+130,2014,LinkedIn,Service Workers,Pacific Islander,Male,0
+131,2014,LinkedIn,Service Workers,Asian,Male,0
+132,2014,LinkedIn,Service Workers,American Indian,Male,0
+133,2014,LinkedIn,Service Workers,Two or More Races,Male,0
+134,2014,LinkedIn,Service Workers,White,Female,0
+135,2014,LinkedIn,Service Workers,Black,Female,0
+136,2014,LinkedIn,Service Workers,Pacific Islander,Female,0
+137,2014,LinkedIn,Service Workers,Asian,Female,0
+138,2014,LinkedIn,Service Workers,American Indian,Female,0
+139,2014,LinkedIn,Service Workers,Two or More Races,Female,0
+0,2015,Microsoft,Executive/Sr. Officials/Mgrs,Hispanic,Male,5
+1,2015,Microsoft,Executive/Sr. Officials/Mgrs,Hispanic,Female,1
+2,2015,Microsoft,Executive/Sr. Officials/Mgrs,White,Male,122
+3,2015,Microsoft,Executive/Sr. Officials/Mgrs,Black,Male,5
+4,2015,Microsoft,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,1
+5,2015,Microsoft,Executive/Sr. Officials/Mgrs,Asian,Male,25
+6,2015,Microsoft,Executive/Sr. Officials/Mgrs,American Indian,Male,1
+7,2015,Microsoft,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+8,2015,Microsoft,Executive/Sr. Officials/Mgrs,White,Female,22
+9,2015,Microsoft,Executive/Sr. Officials/Mgrs,Black,Female,1
+10,2015,Microsoft,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
+11,2015,Microsoft,Executive/Sr. Officials/Mgrs,Asian,Female,8
+12,2015,Microsoft,Executive/Sr. Officials/Mgrs,American Indian,Female,0
+13,2015,Microsoft,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
+14,2015,Microsoft,First/Mid Managers,Hispanic,Male,338
+15,2015,Microsoft,First/Mid Managers,Hispanic,Female,86
+16,2015,Microsoft,First/Mid Managers,White,Male,3654
+17,2015,Microsoft,First/Mid Managers,Black,Male,127
+18,2015,Microsoft,First/Mid Managers,Pacific Islander,Male,1
+19,2015,Microsoft,First/Mid Managers,Asian,Male,1259
+20,2015,Microsoft,First/Mid Managers,American Indian,Male,15
+21,2015,Microsoft,First/Mid Managers,Two or More Races,Male,38
+22,2015,Microsoft,First/Mid Managers,White,Female,998
+23,2015,Microsoft,First/Mid Managers,Black,Female,36
+24,2015,Microsoft,First/Mid Managers,Pacific Islander,Female,4
+25,2015,Microsoft,First/Mid Managers,Asian,Female,335
+26,2015,Microsoft,First/Mid Managers,American Indian,Female,4
+27,2015,Microsoft,First/Mid Managers,Two or More Races,Female,8
+28,2015,Microsoft,Professionals,Hispanic,Male,1588
+29,2015,Microsoft,Professionals,Hispanic,Female,569
+30,2015,Microsoft,Professionals,White,Male,13717
+31,2015,Microsoft,Professionals,Black,Male,715
+32,2015,Microsoft,Professionals,Pacific Islander,Male,23
+33,2015,Microsoft,Professionals,Asian,Male,9457
+34,2015,Microsoft,Professionals,American Indian,Male,79
+35,2015,Microsoft,Professionals,Two or More Races,Male,238
+36,2015,Microsoft,Professionals,White,Female,3591
+37,2015,Microsoft,Professionals,Black,Female,284
+38,2015,Microsoft,Professionals,Pacific Islander,Female,9
+39,2015,Microsoft,Professionals,Asian,Female,3923
+40,2015,Microsoft,Professionals,American Indian,Female,34
+41,2015,Microsoft,Professionals,Two or More Races,Female,1141
+42,2015,Microsoft,Technicians,Hispanic,Male,1214
+43,2015,Microsoft,Technicians,Hispanic,Female,246
+44,2015,Microsoft,Technicians,White,Male,4994
+45,2015,Microsoft,Technicians,Black,Male,536
+46,2015,Microsoft,Technicians,Pacific Islander,Male,24
+47,2015,Microsoft,Technicians,Asian,Male,900
+48,2015,Microsoft,Technicians,American Indian,Male,87
+49,2015,Microsoft,Technicians,Two or More Races,Male,115
+50,2015,Microsoft,Technicians,White,Female,689
+51,2015,Microsoft,Technicians,Black,Female,69
+52,2015,Microsoft,Technicians,Pacific Islander,Female,8
+53,2015,Microsoft,Technicians,Asian,Female,320
+54,2015,Microsoft,Technicians,American Indian,Female,28
+55,2015,Microsoft,Technicians,Two or More Races,Female,15
+56,2015,Microsoft,Sales Workers,Hispanic,Male,65
+57,2015,Microsoft,Sales Workers,Hispanic,Female,28
+58,2015,Microsoft,Sales Workers,White,Male,876
+59,2015,Microsoft,Sales Workers,Black,Male,35
+60,2015,Microsoft,Sales Workers,Pacific Islander,Male,3
+61,2015,Microsoft,Sales Workers,Asian,Male,103
+62,2015,Microsoft,Sales Workers,American Indian,Male,1
+63,2015,Microsoft,Sales Workers,Two or More Races,Male,12
+64,2015,Microsoft,Sales Workers,White,Female,244
+65,2015,Microsoft,Sales Workers,Black,Female,13
+66,2015,Microsoft,Sales Workers,Pacific Islander,Female,0
+67,2015,Microsoft,Sales Workers,Asian,Female,48
+68,2015,Microsoft,Sales Workers,American Indian,Female,3
+69,2015,Microsoft,Sales Workers,Two or More Races,Female,4
+70,2015,Microsoft,Admin Support,Hispanic,Male,18
+71,2015,Microsoft,Admin Support,Hispanic,Female,163
+72,2015,Microsoft,Admin Support,White,Male,68
+73,2015,Microsoft,Admin Support,Black,Male,9
+74,2015,Microsoft,Admin Support,Pacific Islander,Male,0
+75,2015,Microsoft,Admin Support,Asian,Male,12
+76,2015,Microsoft,Admin Support,American Indian,Male,0
+77,2015,Microsoft,Admin Support,Two or More Races,Male,1
+78,2015,Microsoft,Admin Support,White,Female,695
+79,2015,Microsoft,Admin Support,Black,Female,43
+80,2015,Microsoft,Admin Support,Pacific Islander,Female,0
+81,2015,Microsoft,Admin Support,Asian,Female,78
+82,2015,Microsoft,Admin Support,American Indian,Female,5
+83,2015,Microsoft,Admin Support,Two or More Races,Female,16
+84,2015,Microsoft,Craft Workers,Hispanic,Male,80
+85,2015,Microsoft,Craft Workers,Hispanic,Female,6
+86,2015,Microsoft,Craft Workers,White,Male,331
+87,2015,Microsoft,Craft Workers,Black,Male,16
+88,2015,Microsoft,Craft Workers,Pacific Islander,Male,0
+89,2015,Microsoft,Craft Workers,Asian,Male,22
+90,2015,Microsoft,Craft Workers,American Indian,Male,10
+91,2015,Microsoft,Craft Workers,Two or More Races,Male,7
+92,2015,Microsoft,Craft Workers,White,Female,18
+93,2015,Microsoft,Craft Workers,Black,Female,0
+94,2015,Microsoft,Craft Workers,Pacific Islander,Female,0
+95,2015,Microsoft,Craft Workers,Asian,Female,1
+96,2015,Microsoft,Craft Workers,American Indian,Female,2
+97,2015,Microsoft,Craft Workers,Two or More Races,Female,0
+98,2015,Microsoft,Operatives,Hispanic,Male,O
+99,2015,Microsoft,Operatives,Hispanic,Female,1
+100,2015,Microsoft,Operatives,White,Male,7
+101,2015,Microsoft,Operatives,Black,Male,0
+102,2015,Microsoft,Operatives,Pacific Islander,Male,0
+103,2015,Microsoft,Operatives,Asian,Male,0
+104,2015,Microsoft,Operatives,American Indian,Male,0
+105,2015,Microsoft,Operatives,Two or More Races,Male,0
+106,2015,Microsoft,Operatives,White,Female,6
+107,2015,Microsoft,Operatives,Black,Female,1
+108,2015,Microsoft,Operatives,Pacific Islander,Female,0
+109,2015,Microsoft,Operatives,Asian,Female,0
+110,2015,Microsoft,Operatives,American Indian,Female,0
+111,2015,Microsoft,Operatives,Two or More Races,Female,0
+112,2015,Microsoft,Laborers & Helpers,Hispanic,Male,O
+113,2015,Microsoft,Laborers & Helpers,Hispanic,Female,0
+114,2015,Microsoft,Laborers & Helpers,White,Male,0
+115,2015,Microsoft,Laborers & Helpers,Black,Male,0
+116,2015,Microsoft,Laborers & Helpers,Pacific Islander,Male,0
+117,2015,Microsoft,Laborers & Helpers,Asian,Male,1
+118,2015,Microsoft,Laborers & Helpers,American Indian,Male,0
+119,2015,Microsoft,Laborers & Helpers,Two or More Races,Male,0
+120,2015,Microsoft,Laborers & Helpers,White,Female,0
+121,2015,Microsoft,Laborers & Helpers,Black,Female,0
+122,2015,Microsoft,Laborers & Helpers,Pacific Islander,Female,0
+123,2015,Microsoft,Laborers & Helpers,Asian,Female,0
+124,2015,Microsoft,Laborers & Helpers,American Indian,Female,0
+125,2015,Microsoft,Laborers & Helpers,Two or More Races,Female,0
+126,2015,Microsoft,Service Workers,Hispanic,Male,O
+127,2015,Microsoft,Service Workers,Hispanic,Female,0
+128,2015,Microsoft,Service Workers,White,Male,0
+129,2015,Microsoft,Service Workers,Black,Male,0
+130,2015,Microsoft,Service Workers,Pacific Islander,Male,0
+131,2015,Microsoft,Service Workers,Asian,Male,0
+132,2015,Microsoft,Service Workers,American Indian,Male,0
+133,2015,Microsoft,Service Workers,Two or More Races,Male,0
+134,2015,Microsoft,Service Workers,White,Female,0
+135,2015,Microsoft,Service Workers,Black,Female,0
+136,2015,Microsoft,Service Workers,Pacific Islander,Female,0
+137,2015,Microsoft,Service Workers,Asian,Female,0
+138,2015,Microsoft,Service Workers,American Indian,Female,0
+139,2015,Microsoft,Service Workers,Two or More Races,Female,0

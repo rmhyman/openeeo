@@ -1,122 +1,122 @@
 Year,Company,Category,Ethnicity,Gender,Count
-2015,Microsoft,Executive/Sr. Officials/Mgrs,Hispanic,Male,6
-2015,Microsoft,Executive/Sr. Officials/Mgrs,Hispanic,Female,0
-2015,Microsoft,Executive/Sr. Officials/Mgrs,White,Male,104
-2015,Microsoft,Executive/Sr. Officials/Mgrs,Black,Male,4
-2015,Microsoft,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,0
-2015,Microsoft,Executive/Sr. Officials/Mgrs,Asian,Male,22
-2015,Microsoft,Executive/Sr. Officials/Mgrs,American Indian,Male,0
-2015,Microsoft,Executive/Sr. Officials/Mgrs,Two or More Races,Male,1
-2015,Microsoft,Executive/Sr. Officials/Mgrs,White,Female,15
+2015,Microsoft,Executive/Sr. Officials/Mgrs,Hispanic,Male,5
+2015,Microsoft,Executive/Sr. Officials/Mgrs,Hispanic,Female,1
+2015,Microsoft,Executive/Sr. Officials/Mgrs,White,Male,122
+2015,Microsoft,Executive/Sr. Officials/Mgrs,Black,Male,5
+2015,Microsoft,Executive/Sr. Officials/Mgrs,Pacific Islander,Male,1
+2015,Microsoft,Executive/Sr. Officials/Mgrs,Asian,Male,25
+2015,Microsoft,Executive/Sr. Officials/Mgrs,American Indian,Male,1
+2015,Microsoft,Executive/Sr. Officials/Mgrs,Two or More Races,Male,0
+2015,Microsoft,Executive/Sr. Officials/Mgrs,White,Female,22
 2015,Microsoft,Executive/Sr. Officials/Mgrs,Black,Female,1
 2015,Microsoft,Executive/Sr. Officials/Mgrs,Pacific Islander,Female,0
-2015,Microsoft,Executive/Sr. Officials/Mgrs,Asian,Female,2
+2015,Microsoft,Executive/Sr. Officials/Mgrs,Asian,Female,8
 2015,Microsoft,Executive/Sr. Officials/Mgrs,American Indian,Female,0
 2015,Microsoft,Executive/Sr. Officials/Mgrs,Two or More Races,Female,0
-2015,Microsoft,First/Mid Managers,Hispanic,Male,275
-2015,Microsoft,First/Mid Managers,Hispanic,Female,97
-2015,Microsoft,First/Mid Managers,White,Male,5031
-2015,Microsoft,First/Mid Managers,Black,Male,143
-2015,Microsoft,First/Mid Managers,Pacific Islander,Male,11
-2015,Microsoft,First/Mid Managers,Asian,Male,1773
-2015,Microsoft,First/Mid Managers,American Indian,Male,25
-2015,Microsoft,First/Mid Managers,Two or More Races,Male,53
-2015,Microsoft,First/Mid Managers,White,Female,1388
-2015,Microsoft,First/Mid Managers,Black,Female,58
-2015,Microsoft,First/Mid Managers,Pacific Islander,Female,3
-2015,Microsoft,First/Mid Managers,Asian,Female,403
-2015,Microsoft,First/Mid Managers,American Indian,Female,6
-2015,Microsoft,First/Mid Managers,Two or More Races,Female,13
-2015,Microsoft,Professionals,Hispanic,Male,1813
-2015,Microsoft,Professionals,Hispanic,Female,547
-2015,Microsoft,Professionals,White,Male,20502
-2015,Microsoft,Professionals,Black,Male,972
-2015,Microsoft,Professionals,Pacific Islander,Male,72
-2015,Microsoft,Professionals,Asian,Male,11337
-2015,Microsoft,Professionals,American Indian,Male,189
-2015,Microsoft,Professionals,Two or More Races,Male,464
-2015,Microsoft,Professionals,White,Female,5457
-2015,Microsoft,Professionals,Black,Female,408
-2015,Microsoft,Professionals,Pacific Islander,Female,37
-2015,Microsoft,Professionals,Asian,Female,3723
-2015,Microsoft,Professionals,American Indian,Female,54
-2015,Microsoft,Professionals,Two or More Races,Female,167
-2015,Microsoft,Technicians,Hispanic,Male,0
-2015,Microsoft,Technicians,Hispanic,Female,0
-2015,Microsoft,Technicians,White,Male,0
-2015,Microsoft,Technicians,Black,Male,0
-2015,Microsoft,Technicians,Pacific Islander,Male,0
-2015,Microsoft,Technicians,Asian,Male,0
-2015,Microsoft,Technicians,American Indian,Male,0
-2015,Microsoft,Technicians,Two or More Races,Male,0
-2015,Microsoft,Technicians,White,Female,0
-2015,Microsoft,Technicians,Black,Female,0
-2015,Microsoft,Technicians,Pacific Islander,Female,0
-2015,Microsoft,Technicians,Asian,Female,0
-2015,Microsoft,Technicians,American Indian,Female,0
-2015,Microsoft,Technicians,Two or More Races,Female,0
-2015,Microsoft,Sales Workers,Hispanic,Male,262
-2015,Microsoft,Sales Workers,Hispanic,Female,162
-2015,Microsoft,Sales Workers,White,Male,1799
-2015,Microsoft,Sales Workers,Black,Male,284
-2015,Microsoft,Sales Workers,Pacific Islander,Male,11
-2015,Microsoft,Sales Workers,Asian,Male,222
-2015,Microsoft,Sales Workers,American Indian,Male,13
-2015,Microsoft,Sales Workers,Two or More Races,Male,35
-2015,Microsoft,Sales Workers,White,Female,818
-2015,Microsoft,Sales Workers,Black,Female,180
-2015,Microsoft,Sales Workers,Pacific Islander,Female,6
-2015,Microsoft,Sales Workers,Asian,Female,109
-2015,Microsoft,Sales Workers,American Indian,Female,4
-2015,Microsoft,Sales Workers,Two or More Races,Female,26
-2015,Microsoft,Admin Support,Hispanic,Male,0
-2015,Microsoft,Admin Support,Hispanic,Female,25
-2015,Microsoft,Admin Support,White,Male,27
-2015,Microsoft,Admin Support,Black,Male,2
+2015,Microsoft,First/Mid Managers,Hispanic,Male,338
+2015,Microsoft,First/Mid Managers,Hispanic,Female,86
+2015,Microsoft,First/Mid Managers,White,Male,3654
+2015,Microsoft,First/Mid Managers,Black,Male,127
+2015,Microsoft,First/Mid Managers,Pacific Islander,Male,1
+2015,Microsoft,First/Mid Managers,Asian,Male,1259
+2015,Microsoft,First/Mid Managers,American Indian,Male,15
+2015,Microsoft,First/Mid Managers,Two or More Races,Male,38
+2015,Microsoft,First/Mid Managers,White,Female,998
+2015,Microsoft,First/Mid Managers,Black,Female,36
+2015,Microsoft,First/Mid Managers,Pacific Islander,Female,4
+2015,Microsoft,First/Mid Managers,Asian,Female,335
+2015,Microsoft,First/Mid Managers,American Indian,Female,4
+2015,Microsoft,First/Mid Managers,Two or More Races,Female,8
+2015,Microsoft,Professionals,Hispanic,Male,1588
+2015,Microsoft,Professionals,Hispanic,Female,569
+2015,Microsoft,Professionals,White,Male,13717
+2015,Microsoft,Professionals,Black,Male,715
+2015,Microsoft,Professionals,Pacific Islander,Male,23
+2015,Microsoft,Professionals,Asian,Male,9457
+2015,Microsoft,Professionals,American Indian,Male,79
+2015,Microsoft,Professionals,Two or More Races,Male,238
+2015,Microsoft,Professionals,White,Female,3591
+2015,Microsoft,Professionals,Black,Female,284
+2015,Microsoft,Professionals,Pacific Islander,Female,9
+2015,Microsoft,Professionals,Asian,Female,3923
+2015,Microsoft,Professionals,American Indian,Female,34
+2015,Microsoft,Professionals,Two or More Races,Female,1141
+2015,Microsoft,Technicians,Hispanic,Male,1214
+2015,Microsoft,Technicians,Hispanic,Female,246
+2015,Microsoft,Technicians,White,Male,4994
+2015,Microsoft,Technicians,Black,Male,536
+2015,Microsoft,Technicians,Pacific Islander,Male,24
+2015,Microsoft,Technicians,Asian,Male,900
+2015,Microsoft,Technicians,American Indian,Male,87
+2015,Microsoft,Technicians,Two or More Races,Male,115
+2015,Microsoft,Technicians,White,Female,689
+2015,Microsoft,Technicians,Black,Female,69
+2015,Microsoft,Technicians,Pacific Islander,Female,8
+2015,Microsoft,Technicians,Asian,Female,320
+2015,Microsoft,Technicians,American Indian,Female,28
+2015,Microsoft,Technicians,Two or More Races,Female,15
+2015,Microsoft,Sales Workers,Hispanic,Male,65
+2015,Microsoft,Sales Workers,Hispanic,Female,28
+2015,Microsoft,Sales Workers,White,Male,876
+2015,Microsoft,Sales Workers,Black,Male,35
+2015,Microsoft,Sales Workers,Pacific Islander,Male,3
+2015,Microsoft,Sales Workers,Asian,Male,103
+2015,Microsoft,Sales Workers,American Indian,Male,1
+2015,Microsoft,Sales Workers,Two or More Races,Male,12
+2015,Microsoft,Sales Workers,White,Female,244
+2015,Microsoft,Sales Workers,Black,Female,13
+2015,Microsoft,Sales Workers,Pacific Islander,Female,0
+2015,Microsoft,Sales Workers,Asian,Female,48
+2015,Microsoft,Sales Workers,American Indian,Female,3
+2015,Microsoft,Sales Workers,Two or More Races,Female,4
+2015,Microsoft,Admin Support,Hispanic,Male,18
+2015,Microsoft,Admin Support,Hispanic,Female,163
+2015,Microsoft,Admin Support,White,Male,68
+2015,Microsoft,Admin Support,Black,Male,9
 2015,Microsoft,Admin Support,Pacific Islander,Male,0
-2015,Microsoft,Admin Support,Asian,Male,5
-2015,Microsoft,Admin Support,American Indian,Male,1
-2015,Microsoft,Admin Support,Two or More Races,Male,0
-2015,Microsoft,Admin Support,White,Female,507
-2015,Microsoft,Admin Support,Black,Female,35
-2015,Microsoft,Admin Support,Pacific Islander,Female,8
-2015,Microsoft,Admin Support,Asian,Female,54
-2015,Microsoft,Admin Support,American Indian,Female,10
-2015,Microsoft,Admin Support,Two or More Races,Female,15
-2015,Microsoft,Craft Workers,Hispanic,Male,0
-2015,Microsoft,Craft Workers,Hispanic,Female,0
-2015,Microsoft,Craft Workers,White,Male,0
-2015,Microsoft,Craft Workers,Black,Male,0
+2015,Microsoft,Admin Support,Asian,Male,12
+2015,Microsoft,Admin Support,American Indian,Male,0
+2015,Microsoft,Admin Support,Two or More Races,Male,1
+2015,Microsoft,Admin Support,White,Female,695
+2015,Microsoft,Admin Support,Black,Female,43
+2015,Microsoft,Admin Support,Pacific Islander,Female,0
+2015,Microsoft,Admin Support,Asian,Female,78
+2015,Microsoft,Admin Support,American Indian,Female,5
+2015,Microsoft,Admin Support,Two or More Races,Female,16
+2015,Microsoft,Craft Workers,Hispanic,Male,80
+2015,Microsoft,Craft Workers,Hispanic,Female,6
+2015,Microsoft,Craft Workers,White,Male,331
+2015,Microsoft,Craft Workers,Black,Male,16
 2015,Microsoft,Craft Workers,Pacific Islander,Male,0
-2015,Microsoft,Craft Workers,Asian,Male,0
-2015,Microsoft,Craft Workers,American Indian,Male,0
-2015,Microsoft,Craft Workers,Two or More Races,Male,0
-2015,Microsoft,Craft Workers,White,Female,0
+2015,Microsoft,Craft Workers,Asian,Male,22
+2015,Microsoft,Craft Workers,American Indian,Male,10
+2015,Microsoft,Craft Workers,Two or More Races,Male,7
+2015,Microsoft,Craft Workers,White,Female,18
 2015,Microsoft,Craft Workers,Black,Female,0
 2015,Microsoft,Craft Workers,Pacific Islander,Female,0
-2015,Microsoft,Craft Workers,Asian,Female,0
-2015,Microsoft,Craft Workers,American Indian,Female,0
+2015,Microsoft,Craft Workers,Asian,Female,1
+2015,Microsoft,Craft Workers,American Indian,Female,2
 2015,Microsoft,Craft Workers,Two or More Races,Female,0
-2015,Microsoft,Operatives,Hispanic,Male,0
-2015,Microsoft,Operatives,Hispanic,Female,0
-2015,Microsoft,Operatives,White,Male,0
+2015,Microsoft,Operatives,Hispanic,Male,O
+2015,Microsoft,Operatives,Hispanic,Female,1
+2015,Microsoft,Operatives,White,Male,7
 2015,Microsoft,Operatives,Black,Male,0
 2015,Microsoft,Operatives,Pacific Islander,Male,0
 2015,Microsoft,Operatives,Asian,Male,0
 2015,Microsoft,Operatives,American Indian,Male,0
 2015,Microsoft,Operatives,Two or More Races,Male,0
-2015,Microsoft,Operatives,White,Female,0
-2015,Microsoft,Operatives,Black,Female,0
+2015,Microsoft,Operatives,White,Female,6
+2015,Microsoft,Operatives,Black,Female,1
 2015,Microsoft,Operatives,Pacific Islander,Female,0
 2015,Microsoft,Operatives,Asian,Female,0
 2015,Microsoft,Operatives,American Indian,Female,0
 2015,Microsoft,Operatives,Two or More Races,Female,0
-2015,Microsoft,Laborers & Helpers,Hispanic,Male,0
+2015,Microsoft,Laborers & Helpers,Hispanic,Male,O
 2015,Microsoft,Laborers & Helpers,Hispanic,Female,0
 2015,Microsoft,Laborers & Helpers,White,Male,0
 2015,Microsoft,Laborers & Helpers,Black,Male,0
 2015,Microsoft,Laborers & Helpers,Pacific Islander,Male,0
-2015,Microsoft,Laborers & Helpers,Asian,Male,0
+2015,Microsoft,Laborers & Helpers,Asian,Male,1
 2015,Microsoft,Laborers & Helpers,American Indian,Male,0
 2015,Microsoft,Laborers & Helpers,Two or More Races,Male,0
 2015,Microsoft,Laborers & Helpers,White,Female,0
@@ -125,7 +125,7 @@ Year,Company,Category,Ethnicity,Gender,Count
 2015,Microsoft,Laborers & Helpers,Asian,Female,0
 2015,Microsoft,Laborers & Helpers,American Indian,Female,0
 2015,Microsoft,Laborers & Helpers,Two or More Races,Female,0
-2015,Microsoft,Service Workers,Hispanic,Male,0
+2015,Microsoft,Service Workers,Hispanic,Male,O
 2015,Microsoft,Service Workers,Hispanic,Female,0
 2015,Microsoft,Service Workers,White,Male,0
 2015,Microsoft,Service Workers,Black,Male,0
